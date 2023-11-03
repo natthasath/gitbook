@@ -4,7 +4,9 @@ coverY: 0
 
 # How to Trust Sign Image on Docker
 
+{% hint style="info" %}
 ในกรณีที่เราดึง Image จาก Public บน Docker Hub จะมี Feature ที่ใช้ในการตรวจสอบ Verify Image คล้าย ๆ กับค่า Hash ของพวกไฟล์ ISO ที่เราดาวน์โหลดมาติดตั้ง ซึ่งเราจะมาลองทำ Image แล้ว Trust Sign กัน
+{% endhint %}
 
 **Get Started**
 
