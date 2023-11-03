@@ -40,6 +40,10 @@
 
 ## 👩🍼 Programming
 
+* [Tools](programming/tools/README.md)
+  * [Generative AI Tools](programming/tools/generative-ai-tools.md)
+  * [Design Tools](programming/tools/design-tools.md)
+  * [DEV Tools](programming/tools/dev-tools.md)
 * [Python](programming/python/README.md)
   * [Fast API](programming/python/fast-api.md)
   * [Django](programming/python/django.md)
