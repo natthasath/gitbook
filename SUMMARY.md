@@ -7,6 +7,7 @@
 * [Oracle Database](database/oracle-database/README.md)
   * [🍋 LDOM Oracle VM for SPARC](database/oracle-database/ldom-oracle-vm-for-sparc.md)
   * [🍊 Oracle Processor Core Factor Table](database/oracle-database/oracle-processor-core-factor-table.md)
+  * [🍎 Oracle Processor Core Factor Table](database/oracle-database/oracle-processor-core-factor-table-1.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
 * [Microsoft SQL Server](database/microsoft-sql-server.md)
