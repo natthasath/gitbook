@@ -59,6 +59,8 @@
   * [Django](programming/python/django.md)
 * [PHP](programming/php/README.md)
   * [Laravel](programming/php/laravel.md)
+* [Extension](programming/extension/README.md)
+  * [❄ Top Extension Microsoft Edge](programming/extension/top-extension-microsoft-edge.md)
 
 ## 👨🍼 Other
 
