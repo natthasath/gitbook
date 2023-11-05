@@ -5,7 +5,7 @@
 {% endhint %}
 
 {% hint style="danger" %}
-**Cause** :สาเหตุเนื่องมาจากการที่เราลืม Root Password หรือการที่เรามาดูระบบต่อแต่ไม่ทราบ Root Password เพราะคนเก่าไม่ได้ให้ข้อมูลไว้ ทำให้เราจำเป็นต้องทำการ Reset Password
+**Cause** : สาเหตุเนื่องมาจากการที่เราลืม Root Password หรือการที่เรามาดูระบบต่อแต่ไม่ทราบ Root Password เพราะคนเก่าไม่ได้ให้ข้อมูลไว้ ทำให้เราจำเป็นต้องทำการ Reset Password
 {% endhint %}
 
 ## **Configuration**
