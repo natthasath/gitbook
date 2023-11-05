@@ -92,6 +92,8 @@
 
 ## 🧜 MICROSOFT 365
 
+* [OneDrive](microsoft-365/onedrive/README.md)
+  * [📂 Rename Folder OneDrive for Business](microsoft-365/onedrive/rename-folder-onedrive-for-business.md)
 * [Outlook](microsoft-365/outlook/README.md)
   * [📩 How to enable Forward Email on Microsoft Office 365 to Another Domain](microsoft-365/outlook/how-to-enable-forward-email-on-microsoft-office-365-to-another-domain.md)
 * [Power Automate](microsoft-365/power-automate/README.md)
