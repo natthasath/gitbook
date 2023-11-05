@@ -30,7 +30,8 @@
 ## 🧑🍼 Software
 
 * [ISPConfig](software/ispconfig/README.md)
-  * [Page 7](software/ispconfig/page-7.md)
+  * [🌏 How to use Web Application Firewall (WAF) with ModSecurity](software/ispconfig/how-to-use-web-application-firewall-waf-with-modsecurity.md)
+  * [🌏 How to use Web Application Firewall (WAF) with Waf2Py](software/ispconfig/how-to-use-web-application-firewall-waf-with-waf2py.md)
 * [VMware](software/vmware/README.md)
   * [Page 6](software/vmware/page-6.md)
 * [Veeam Backup](software/veeam-backup/README.md)
@@ -72,8 +73,3 @@
   * [☁ How to Rename all Files in Folder use UUID with Power Automate Desktop](microsoft-365/power-automate/how-to-rename-all-files-in-folder-use-uuid-with-power-automate-desktop.md)
 * [SharePoint](microsoft-365/sharepoint/README.md)
   * [Page 8](microsoft-365/sharepoint/page-8.md)
-
-***
-
-* [How to use Web Application Firewall (WAF) with Waf2Py](how-to-use-web-application-firewall-waf-with-waf2py.md)
-* [How to use Web Application Firewall (WAF) with ModSecurity](how-to-use-web-application-firewall-waf-with-modsecurity.md)

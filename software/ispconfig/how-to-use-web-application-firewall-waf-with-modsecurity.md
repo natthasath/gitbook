@@ -1,4 +1,4 @@
-# How to use Web Application Firewall (WAF) with ModSecurity
+# 🌏 How to use Web Application Firewall (WAF) with ModSecurity
 
 {% hint style="info" %}
 ModSecurity เป็น Module Security ของ Apache ที่ใช้ในการป้องการโจมตี ทำหน้าที่เป็นเหมือน Web Application Firewall (WAF) ซึ่งบริการนี้ที่เรารู้จักกันดีก็คือ Cloudflare WAF แต่วันนี้เราจะมาลองเล่น ModSecurity ของ Apache กัน
