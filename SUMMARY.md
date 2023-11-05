@@ -89,6 +89,9 @@
 * [Policy](other/policy/README.md)
   * [🍔 GDPR & PDPA](other/policy/gdpr-and-pdpa.md)
   * [🍟 TDPG 2.0](other/policy/tdpg-2.0.md)
+* [Chat Bot](other/chat-bot/README.md)
+  * [Chatfuel](other/chat-bot/chatfuel/README.md)
+    * [🍭 Facebook Chatbot with Chatfuel](other/chat-bot/chatfuel/facebook-chatbot-with-chatfuel.md)
 
 ## 🧜 MICROSOFT 365
 
