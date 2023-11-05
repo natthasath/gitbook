@@ -42,8 +42,9 @@
   * [Page 1](software/veeam-backup/page-1.md)
   * [Page 2](software/veeam-backup/page-2.md)
   * [Page 3](software/veeam-backup/page-3.md)
-* [Joomla](software/joomla/README.md)
-  * [🌺 Fix Joomla Error Call to a member function](software/joomla/fix-joomla-error-call-to-a-member-function.md)
+* [CMS](software/cms/README.md)
+  * [🌺 Fix Joomla Error Call to a member function](software/cms/fix-joomla-error-call-to-a-member-function.md)
+  * [🌺 Fix Mixed Content: The page was loaded over HTTPS](software/cms/fix-mixed-content-the-page-was-loaded-over-https.md)
 
 ## 👩🍼 Programming
 
