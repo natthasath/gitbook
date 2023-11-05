@@ -45,6 +45,8 @@
   * [Generative AI Tools](programming/tools/generative-ai-tools.md)
   * [Design Tools](programming/tools/design-tools.md)
   * [DEV Tools](programming/tools/dev-tools.md)
+* [Visual Studio Code](programming/visual-studio-code/README.md)
+  * [🌑 How to show Folder .git in Visual Studio Code](programming/visual-studio-code/how-to-show-folder-.git-in-visual-studio-code.md)
 * [Python](programming/python/README.md)
   * [Poetry](programming/python/poetry/README.md)
     * [🐍 Poetry Virtual Environment Command](programming/python/poetry/poetry-virtual-environment-command.md)
