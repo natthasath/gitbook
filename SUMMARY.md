@@ -94,7 +94,8 @@
   * [Chatfuel](other/chat-bot/chatfuel/README.md)
     * [🍭 Facebook Chatbot with Chatfuel](other/chat-bot/chatfuel/facebook-chatbot-with-chatfuel.md)
   * [Dialogflow](other/chat-bot/dialogflow/README.md)
-    * [🌈 Dialogflow Connect Multiple Firebase Realtime Database](other/chat-bot/dialogflow/dialogflow-connect-multiple-firebase-realtime-database.md)
+    * [⛱ Dialogflow Connect Multiple Firebase Realtime Database](other/chat-bot/dialogflow/dialogflow-connect-multiple-firebase-realtime-database.md)
+    * [⛱ Chatbot with Dialogflow and Firebase Realtime Database](other/chat-bot/dialogflow/chatbot-with-dialogflow-and-firebase-realtime-database.md)
 
 ## 🧜 MICROSOFT 365
 
