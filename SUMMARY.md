@@ -45,6 +45,8 @@
   * [Design Tools](programming/tools/design-tools.md)
   * [DEV Tools](programming/tools/dev-tools.md)
 * [Python](programming/python/README.md)
+  * [Poetry](programming/python/poetry/README.md)
+    * [🐍 Poetry Virtual Environment Command](programming/python/poetry/poetry-virtual-environment-command.md)
   * [Fast API](programming/python/fast-api.md)
   * [Django](programming/python/django.md)
 * [PHP](programming/php/README.md)
