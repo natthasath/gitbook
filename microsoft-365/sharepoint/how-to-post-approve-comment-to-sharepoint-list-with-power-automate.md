@@ -14,7 +14,7 @@
 
 <figure><img src="https://codeinsane.files.wordpress.com/2019/11/flow-02.png?w=1024" alt="" height="519" width="1024"><figcaption></figcaption></figure>
 
-* ทำการกำหนด Flow name และเลือก When an item is created แล้วคลิก Create คำเตือนชื่อต้องมากกว่า 3 ตัวขึ้นไป
+* ทำการกำหนด Flow name และเลือก When an item is created แล้วคลิก Create <mark style="color:red;">คำเตือนชื่อต้องมากกว่า 3 ตัวขึ้นไป</mark>
 
 <figure><img src="https://codeinsane.files.wordpress.com/2022/07/approvecomment-01-1.png?w=900" alt="" height="571" width="900"><figcaption></figcaption></figure>
 
