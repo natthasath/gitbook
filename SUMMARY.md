@@ -25,7 +25,7 @@
 * [Windows Server](server/windows-server/README.md)
   * [Page 4](server/windows-server/page-4.md)
 * [Linux Server](server/linux-server/README.md)
-  * [Page 5](server/linux-server/page-5.md)
+  * [👿 Fix SSH Error: no matching key exchange method found](server/linux-server/fix-ssh-error-no-matching-key-exchange-method-found.md)
 
 ## 🧑🍼 Software
 
