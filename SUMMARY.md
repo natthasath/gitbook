@@ -23,6 +23,7 @@
 * [Network](infrastructure/network/README.md)
 * [Storage](infrastructure/storage/README.md)
 * [Security](infrastructure/security/README.md)
+  * [🎩 Scam Mail](infrastructure/security/scam-mail.md)
 * [ISO 27001](infrastructure/iso-27001/README.md)
   * [🐶 Scenario-Based Risk](infrastructure/iso-27001/scenario-based-risk.md)
 
