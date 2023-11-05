@@ -76,6 +76,8 @@
 * [Machine Learning](other/machine-learning.md)
 * [WSL](other/wsl/README.md)
   * [How to move image WSL to new Location](other/wsl/how-to-move-image-wsl-to-new-location.md)
+* [Organize](other/organize/README.md)
+  * [💻 Computer Naming Convention](other/organize/computer-naming-convention.md)
 
 ## 🧜 MICROSOFT 365
 
@@ -83,7 +85,3 @@
   * [☁ How to Rename all Files in Folder use UUID with Power Automate Desktop](microsoft-365/power-automate/how-to-rename-all-files-in-folder-use-uuid-with-power-automate-desktop.md)
 * [SharePoint](microsoft-365/sharepoint/README.md)
   * [Page 8](microsoft-365/sharepoint/page-8.md)
-
-***
-
-* [💻 Computer Naming Convention](computer-naming-convention.md)
