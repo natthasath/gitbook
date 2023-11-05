@@ -40,6 +40,7 @@
 * [VMware](software/vmware/README.md)
   * [🌠 Fix Deploy OVA Error no Support Hardware Versions on VMware ESXi 6.7](software/vmware/fix-deploy-ova-error-no-support-hardware-versions-on-vmware-esxi-6.7.md)
   * [🌠 VMware Workstation and VMware ESXi Compatible](software/vmware/vmware-workstation-and-vmware-esxi-compatible.md)
+  * [🌠 Promiscuous Mode and Forged Transmits on VMware vSphere 6.5](software/vmware/promiscuous-mode-and-forged-transmits-on-vmware-vsphere-6.5.md)
 * [Veeam Backup](software/veeam-backup/README.md)
 * [CMS](software/cms/README.md)
   * [🌺 Fix Joomla Error Call to a member function](software/cms/fix-joomla-error-call-to-a-member-function.md)
