@@ -28,6 +28,7 @@
   * [Page 4](server/windows-server/page-4.md)
 * [Linux Server](server/linux-server/README.md)
   * [👿 Fix SSH Error: no matching key exchange method found](server/linux-server/fix-ssh-error-no-matching-key-exchange-method-found.md)
+  * [👿 Fix Ubuntu Package Manager Lock: Could not get lock /var/lib/dpkg/lock](server/linux-server/fix-ubuntu-package-manager-lock-could-not-get-lock-var-lib-dpkg-lock.md)
 
 ## 🧑🍼 Software
 
@@ -77,7 +78,3 @@
   * [☁ How to Rename all Files in Folder use UUID with Power Automate Desktop](microsoft-365/power-automate/how-to-rename-all-files-in-folder-use-uuid-with-power-automate-desktop.md)
 * [SharePoint](microsoft-365/sharepoint/README.md)
   * [Page 8](microsoft-365/sharepoint/page-8.md)
-
-***
-
-* [👿 Fix Ubuntu Package Manager Lock: Could not get lock /var/lib/dpkg/lock](fix-ubuntu-package-manager-lock-could-not-get-lock-var-lib-dpkg-lock.md)

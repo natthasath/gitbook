@@ -64,9 +64,13 @@ git clone https://github.com/coreruleset/coreruleset.git && cd coreruleset
 
 {% code overflow="wrap" %}
 ```
-cp crs-setup.conf.example /etc/modsecurity/crs-setup.conf && cp -r rules/ /etc/modsecurity/
+cp crs-setup.conf.example /etc/modsecurity/crs-setup.conf
 ```
 {% endcode %}
+
+```
+cp -r rules/ /etc/modsecurity/
+```
 
 * ทำการแก้ไขไฟล์ /etc/apache2/mods-enabled/security2.conf
 

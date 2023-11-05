@@ -8,10 +8,12 @@
 **Cause** : สาเหตุอาจเกิดจากกระบวนการ Install หรือ Upgrade ก่อนหน้าถูกขัดจังหวะ จึงทำให้ไฟล์ dpkg ถูก Lock หรืออาจเกิดจากเครื่องมือจัดการ Package อื่นเปิดอยู่ผ่านทาง Graphic Mode พวก Synaptic Package Manager หรือ Ubuntu Software Center ซึ่งเราสามารถแก้ไขได้ด้วยการ Kill Process และ Remove File Lock ทิ้ง
 {% endhint %}
 
+{% code overflow="wrap" %}
 ```
 E: Could not get lock /var/cache/apt/archives/lock – open (11: Resource temporarily unavailable)
 E: Unable to lock directory /var/cache/apt/archives/
 ```
+{% endcode %}
 
 ## **Configuration**
 
