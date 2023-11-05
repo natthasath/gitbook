@@ -13,6 +13,8 @@
 
 ## 🙇♀ INFRASTRUCTURE
 
+* [DNS](infrastructure/dns/README.md)
+  * [📬 Fix Ldap Error Search Configuration Naming Context failed](infrastructure/dns/fix-ldap-error-search-configuration-naming-context-failed.md)
 * [Network](infrastructure/network/README.md)
   * [Page 9](infrastructure/network/page-9.md)
 * [Storage](infrastructure/storage/README.md)
