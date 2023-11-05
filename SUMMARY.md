@@ -37,6 +37,7 @@
   * [🌏 How to use Web Application Firewall (WAF) with ModSecurity](software/ispconfig/how-to-use-web-application-firewall-waf-with-modsecurity.md)
   * [🌏 How to use Web Application Firewall (WAF) with Waf2Py](software/ispconfig/how-to-use-web-application-firewall-waf-with-waf2py.md)
 * [VMware](software/vmware/README.md)
+  * [🌠 Fix Deploy OVA Error no Support Hardware Versions on VMware ESXi 6.7](software/vmware/fix-deploy-ova-error-no-support-hardware-versions-on-vmware-esxi-6.7.md)
 * [Veeam Backup](software/veeam-backup/README.md)
 * [CMS](software/cms/README.md)
   * [🌺 Fix Joomla Error Call to a member function](software/cms/fix-joomla-error-call-to-a-member-function.md)
