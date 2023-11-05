@@ -41,6 +41,8 @@
   * [Page 1](software/veeam-backup/page-1.md)
   * [Page 2](software/veeam-backup/page-2.md)
   * [Page 3](software/veeam-backup/page-3.md)
+* [Joomla](software/joomla/README.md)
+  * [🌺 Fix Joomla Error Call to a member function](software/joomla/fix-joomla-error-call-to-a-member-function.md)
 
 ## 👩🍼 Programming
 
