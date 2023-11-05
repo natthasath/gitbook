@@ -70,6 +70,7 @@
 * [Cloud](other/cloud.md)
 * [Docker](other/docker/README.md)
   * [🐳 How to Trust Sign Image on Docker](other/docker/how-to-trust-sign-image-on-docker.md)
+  * [🐳 Upgrade Docker Compose](other/docker/upgrade-docker-compose.md)
 * [Internet of Thing](other/internet-of-thing.md)
 * [Machine Learning](other/machine-learning.md)
 * [WSL](other/wsl/README.md)
