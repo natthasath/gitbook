@@ -87,3 +87,4 @@
 * [Power Automate](microsoft-365/power-automate/README.md)
   * [☁ How to Rename all Files in Folder use UUID with Power Automate Desktop](microsoft-365/power-automate/how-to-rename-all-files-in-folder-use-uuid-with-power-automate-desktop.md)
 * [SharePoint](microsoft-365/sharepoint/README.md)
+  * [📙 How to get SharePoint List Comment with Power Automate](microsoft-365/sharepoint/how-to-get-sharepoint-list-comment-with-power-automate.md)
