@@ -72,3 +72,8 @@
   * [☁ How to Rename all Files in Folder use UUID with Power Automate Desktop](microsoft-365/power-automate/how-to-rename-all-files-in-folder-use-uuid-with-power-automate-desktop.md)
 * [SharePoint](microsoft-365/sharepoint/README.md)
   * [Page 8](microsoft-365/sharepoint/page-8.md)
+
+***
+
+* [How to use Web Application Firewall (WAF) with Waf2Py](how-to-use-web-application-firewall-waf-with-waf2py.md)
+* [How to use Web Application Firewall (WAF) with ModSecurity](how-to-use-web-application-firewall-waf-with-modsecurity.md)
