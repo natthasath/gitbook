@@ -83,3 +83,7 @@
   * [☁ How to Rename all Files in Folder use UUID with Power Automate Desktop](microsoft-365/power-automate/how-to-rename-all-files-in-folder-use-uuid-with-power-automate-desktop.md)
 * [SharePoint](microsoft-365/sharepoint/README.md)
   * [Page 8](microsoft-365/sharepoint/page-8.md)
+
+***
+
+* [💻 Computer Naming Convention](computer-naming-convention.md)
