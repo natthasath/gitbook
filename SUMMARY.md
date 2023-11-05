@@ -66,6 +66,8 @@
   * [🐍 Python Convert String to List](programming/python/python-convert-string-to-list.md)
 * [PHP](programming/php/README.md)
   * [Laravel](programming/php/laravel.md)
+* [.NET Core](programming/.net-core/README.md)
+  * [🐹 .NET Core Automatic Code Review with SonarQube](programming/.net-core/.net-core-automatic-code-review-with-sonarqube.md)
 * [Extension](programming/extension/README.md)
   * [❄ Top Extension Microsoft Edge](programming/extension/top-extension-microsoft-edge.md)
 
@@ -78,7 +80,7 @@
   * [🐳 How to Trust Sign Image on Docker](other/docker/how-to-trust-sign-image-on-docker.md)
   * [🐳 Upgrade Docker Compose](other/docker/upgrade-docker-compose.md)
 * [Internet of Thing](other/internet-of-thing.md)
-* [Machine Learning](other/machine-learning/README.md)
+* [Machine Learning](other/machine-learning.md)
   * [👘 PC SPEC for Deep Learning 2021](other/machine-learning/pc-spec-for-deep-learning-2021.md)
 * [WSL](other/wsl/README.md)
   * [How to move image WSL to new Location](other/wsl/how-to-move-image-wsl-to-new-location.md)
