@@ -56,8 +56,6 @@
 
 * [ISO 27001](other/iso-27001/README.md)
   * [🐶 Scenario-Based Risk](other/iso-27001/scenario-based-risk.md)
-* [Microsoft 365](other/microsoft-365/README.md)
-  * [Page 8](other/microsoft-365/page-8.md)
 * [Big Data](other/big-data/README.md)
   * [🐱 Big Data ของกระทรวงสาธารณะสุข](other/big-data/big-data.md)
 * [Cloud](other/cloud.md)
@@ -67,3 +65,10 @@
 * [Machine Learning](other/machine-learning.md)
 * [WSL](other/wsl/README.md)
   * [How to move image WSL to new Location](other/wsl/how-to-move-image-wsl-to-new-location.md)
+
+## 🧜 MICROSOFT 365
+
+* [Power Automate](microsoft-365/power-automate/README.md)
+  * [☁ How to Rename all Files in Folder use UUID with Power Automate Desktop](microsoft-365/power-automate/how-to-rename-all-files-in-folder-use-uuid-with-power-automate-desktop.md)
+* [SharePoint](microsoft-365/sharepoint/README.md)
+  * [Page 8](microsoft-365/sharepoint/page-8.md)
