@@ -77,3 +77,7 @@
   * [☁ How to Rename all Files in Folder use UUID with Power Automate Desktop](microsoft-365/power-automate/how-to-rename-all-files-in-folder-use-uuid-with-power-automate-desktop.md)
 * [SharePoint](microsoft-365/sharepoint/README.md)
   * [Page 8](microsoft-365/sharepoint/page-8.md)
+
+***
+
+* [👿 Fix Ubuntu Package Manager Lock: Could not get lock /var/lib/dpkg/lock](fix-ubuntu-package-manager-lock-could-not-get-lock-var-lib-dpkg-lock.md)
