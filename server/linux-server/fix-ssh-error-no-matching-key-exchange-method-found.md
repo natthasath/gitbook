@@ -11,7 +11,11 @@
 {% code overflow="wrap" %}
 ```
 ssh username#10.10.10.10
----
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```markup
 Unable to negotiate with 10.10.10.10 port 22: no matching key exchange method found. Their offer: diffie-hellman-group-exchange-sha1,diffie-hellman-group1-sha1
 ```
 {% endcode %}

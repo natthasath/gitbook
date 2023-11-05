@@ -8,6 +8,7 @@
   * [🍋 LDOM Oracle VM for SPARC](database/oracle-database/ldom-oracle-vm-for-sparc.md)
   * [🍊 Oracle Processor Core Factor Table](database/oracle-database/oracle-processor-core-factor-table.md)
   * [🍎 Oracle Processor Core Factor Table](database/oracle-database/oracle-processor-core-factor-table-1.md)
+  * [🍇 Check Oracle Error in Alert Log with SQL\*Plus](database/oracle-database/check-oracle-error-in-alert-log-with-sql-plus.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
 * [Microsoft SQL Server](database/microsoft-sql-server.md)
@@ -34,6 +35,9 @@
 
 ## 🧑🍼 Software
 
+* [CMS](software/cms/README.md)
+  * [🌺 Fix Joomla Error Call to a member function](software/cms/fix-joomla-error-call-to-a-member-function.md)
+  * [🌺 Fix Mixed Content: The page was loaded over HTTPS](software/cms/fix-mixed-content-the-page-was-loaded-over-https.md)
 * [ISPConfig](software/ispconfig/README.md)
   * [🌏 How to use Web Application Firewall (WAF) with ModSecurity](software/ispconfig/how-to-use-web-application-firewall-waf-with-modsecurity.md)
   * [🌏 How to use Web Application Firewall (WAF) with Waf2Py](software/ispconfig/how-to-use-web-application-firewall-waf-with-waf2py.md)
@@ -42,12 +46,12 @@
   * [🌠 VMware Workstation and VMware ESXi Compatible](software/vmware/vmware-workstation-and-vmware-esxi-compatible.md)
   * [🌠 Promiscuous Mode and Forged Transmits on VMware vSphere 6.5](software/vmware/promiscuous-mode-and-forged-transmits-on-vmware-vsphere-6.5.md)
 * [Veeam Backup](software/veeam-backup/README.md)
-* [CMS](software/cms/README.md)
-  * [🌺 Fix Joomla Error Call to a member function](software/cms/fix-joomla-error-call-to-a-member-function.md)
-  * [🌺 Fix Mixed Content: The page was loaded over HTTPS](software/cms/fix-mixed-content-the-page-was-loaded-over-https.md)
+  * [🧊 Install Veeam Backup & Replication 11 on Windows](software/veeam-backup/install-veeam-backup-and-replication-11-on-windows.md)
 
 ## 👩🍼 Programming
 
+* [Fundamental](programming/fundamental/README.md)
+  * [🟢 HTTP Response Status Code](programming/fundamental/http-response-status-code.md)
 * [Tools](programming/tools/README.md)
   * [Generative AI Tools](programming/tools/generative-ai-tools.md)
   * [Design Tools](programming/tools/design-tools.md)
@@ -64,8 +68,6 @@
   * [Laravel](programming/php/laravel.md)
 * [Extension](programming/extension/README.md)
   * [❄ Top Extension Microsoft Edge](programming/extension/top-extension-microsoft-edge.md)
-* [Fundamental](programming/fundamental/README.md)
-  * [🟢 HTTP Response Status Code](programming/fundamental/http-response-status-code.md)
 
 ## 👨🍼 Other
 
