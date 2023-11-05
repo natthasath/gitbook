@@ -18,9 +18,17 @@ wget https://github.com/ITSec-Chile/Waf2Py/releases/download/waf2py_1.0/waf2py1.
 
 {% code overflow="wrap" %}
 ```
-cd Waf2Py/installer/ && chmod +x waf2py_installer.sh && ./waf2py_installer.sh
+cd Waf2Py/installer/
 ```
 {% endcode %}
+
+```
+chmod +x waf2py_installer.sh
+```
+
+```
+./waf2py_installer.sh
+```
 
 * ลองเข้าไปที่ [https://localhost:62443](https://localhost:62443/) แล้วกรอก Username และ Password ด้วย admin : password
 
