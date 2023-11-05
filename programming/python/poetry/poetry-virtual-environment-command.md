@@ -56,8 +56,10 @@ poetry run
 
 * Poetry Export Package to File
 
+{% code overflow="wrap" %}
 ```
 poetry export --without-hashes --without-urls | awk '{ print $1 }' FS=';' > requirements.txt
 ```
+{% endcode %}
 
 **อ่านเพิ่มเติม** : [https://bit.ly/45LMZz7](https://bit.ly/45LMZz7)
