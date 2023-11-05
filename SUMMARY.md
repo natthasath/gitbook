@@ -22,6 +22,8 @@
   * [Page 10](infrastructure/storage/page-10.md)
 * [Security](infrastructure/security/README.md)
   * [Page 11](infrastructure/security/page-11.md)
+* [ISO 27001](infrastructure/iso-27001/README.md)
+  * [🐶 Scenario-Based Risk](infrastructure/iso-27001/scenario-based-risk.md)
 
 ## 🙇♂ Server
 
@@ -66,8 +68,6 @@
 
 ## 👨🍼 Other
 
-* [ISO 27001](other/iso-27001/README.md)
-  * [🐶 Scenario-Based Risk](other/iso-27001/scenario-based-risk.md)
 * [Big Data](other/big-data/README.md)
   * [🐱 Big Data ของกระทรวงสาธารณะสุข](other/big-data/big-data.md)
 * [Cloud](other/cloud.md)
