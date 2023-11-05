@@ -22,8 +22,9 @@ apt-get install realmd sssd sssd-tools libnss-sss libpam-sss adcli samba-common-
 
 * ทำการกำหนด Hostname
 
-<pre><code><strong>hostnamectl set-hostname ubt.lab.local
-</strong></code></pre>
+```
+hostnamectl set-hostname ubt.lab.local
+```
 
 * ทำการตรวจสอบ Hostname
 
@@ -45,29 +46,32 @@ Operating System: Ubuntu 22.04.1 LTS
 
 * ทำการแก้ไขไฟล์ /etc/krb5.conf
 
-<pre><code>vi /etc/krb5.conf
+```
+vi /etc/krb5.conf
 ---
 [libdefaults]
-<strong>        default_realm = LAB.LOCAL
-</strong>
+        default_realm = LAB.LOCAL
+
 [realms]
-<strong>        LAB.LOCAL = {
-</strong><strong>                kdc = dc1.lab.local
-</strong><strong>                kdc = dc2.lab.local
-</strong><strong>                admin_server = dc1.lab.local
-</strong><strong>                default_domain = lab.local
-</strong>        }
-</code></pre>
+        LAB.LOCAL = {
+                kdc = dc1.lab.local
+                kdc = dc2.lab.local
+                admin_server = dc1.lab.local
+                default_domain = lab.local
+        }
+```
 
 * ทำการ Discover Domain
 
-<pre><code><strong>realm discover lab.local
-</strong></code></pre>
+```
+realm discover lab.local
+```
 
 * ทำการ Join Domain
 
-<pre><code><strong>realm join --user=Administrator lab.local
-</strong></code></pre>
+```
+realm join --user=Administrator lab.local
+```
 
 * ทำการ Verify Domain
 
