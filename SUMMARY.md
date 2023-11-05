@@ -83,6 +83,9 @@
   * [How to move image WSL to new Location](other/wsl/how-to-move-image-wsl-to-new-location.md)
 * [Organize](other/organize/README.md)
   * [💻 Computer Naming Convention](other/organize/computer-naming-convention.md)
+* [Policy](other/policy/README.md)
+  * [GDPR & PDPA](other/policy/gdpr-and-pdpa.md)
+  * [TDPG 2.0](other/policy/tdpg-2.0.md)
 
 ## 🧜 MICROSOFT 365
 
