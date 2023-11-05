@@ -25,6 +25,7 @@
 * [Security](infrastructure/security/README.md)
   * [🎩 Scam Mail](infrastructure/security/scam-mail.md)
   * [🎩 Disable Antivirus Protection on Windows 10](infrastructure/security/disable-antivirus-protection-on-windows-10.md)
+  * [🎩 Fix Security Certificate is not Trusted](infrastructure/security/fix-security-certificate-is-not-trusted.md)
 * [ISO 27001](infrastructure/iso-27001/README.md)
   * [🐶 Scenario-Based Risk](infrastructure/iso-27001/scenario-based-risk.md)
 
