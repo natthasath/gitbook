@@ -64,6 +64,8 @@
   * [Laravel](programming/php/laravel.md)
 * [Extension](programming/extension/README.md)
   * [❄ Top Extension Microsoft Edge](programming/extension/top-extension-microsoft-edge.md)
+* [Fundamental](programming/fundamental/README.md)
+  * [🟢 HTTP Response Status Code](programming/fundamental/http-response-status-code.md)
 
 ## 👨🍼 Other
 
