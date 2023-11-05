@@ -59,6 +59,7 @@
     * [🐍 Poetry Virtual Environment Command](programming/python/poetry/poetry-virtual-environment-command.md)
   * [Fast API](programming/python/fast-api.md)
   * [Django](programming/python/django.md)
+  * [🐍 Python Convert String to List](programming/python/python-convert-string-to-list.md)
 * [PHP](programming/php/README.md)
   * [Laravel](programming/php/laravel.md)
 * [Extension](programming/extension/README.md)
