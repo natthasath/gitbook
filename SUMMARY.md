@@ -95,7 +95,7 @@
   * [🧤 PC SPEC for Deep Learning 2021](other/machine-learning/pc-spec-for-deep-learning-2021.md)
   * [🧤 Install YOLO Object Detection on Windows 10](other/machine-learning/install-yolo-object-detection-on-windows-10.md)
 * [WSL](other/wsl/README.md)
-  * [How to move image WSL to new Location](other/wsl/how-to-move-image-wsl-to-new-location.md)
+  * [🧿 How to move Distribution Data WSL to new Location](other/wsl/how-to-move-distribution-data-wsl-to-new-location.md)
 * [Organize](other/organize/README.md)
   * [💻 Computer Naming Convention](other/organize/computer-naming-convention.md)
 * [Policy](other/policy/README.md)
