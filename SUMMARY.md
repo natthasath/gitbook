@@ -84,9 +84,11 @@
 * [Docker](other/docker/README.md)
   * [🐳 How to Trust Sign Image on Docker](other/docker/how-to-trust-sign-image-on-docker.md)
   * [🐳 Upgrade Docker Compose](other/docker/upgrade-docker-compose.md)
-* [Internet of Thing](other/internet-of-thing.md)
+* [Raspberry Pi](other/raspberry-pi/README.md)
+  * [🍓 Install NOOBS on Rasberry Pi](other/raspberry-pi/install-noobs-on-rasberry-pi.md)
 * [Machine Learning](other/machine-learning.md)
-  * [👘 PC SPEC for Deep Learning 2021](other/machine-learning/pc-spec-for-deep-learning-2021.md)
+  * [🧤 PC SPEC for Deep Learning 2021](other/machine-learning/pc-spec-for-deep-learning-2021.md)
+  * [🧤 Install YOLO Object Detection on Windows 10](other/machine-learning/install-yolo-object-detection-on-windows-10.md)
 * [WSL](other/wsl/README.md)
   * [How to move image WSL to new Location](other/wsl/how-to-move-image-wsl-to-new-location.md)
 * [Organize](other/organize/README.md)
@@ -121,7 +123,3 @@
 * [IIS](web-server/iis/README.md)
   * [🦺 Fix Unable Session State Request on IIS](web-server/iis/fix-unable-session-state-request-on-iis.md)
 * [Apache](web-server/apache.md)
-
-***
-
-* [🍓 Install NOOBS on Rasberry Pi](install-noobs-on-rasberry-pi.md)

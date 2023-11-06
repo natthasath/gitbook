@@ -4,7 +4,7 @@
 [NOOBS](https://www.raspberrypi.org/documentation/installation/noobs.md) ( New Out Of Box Software ) เป็นระบบปฏิบัติการบน Raspberry Pi ที่มีขนาดเล็ก สามารถติดตั้งบน Micro SD Card ได้ ซึ่งจะประกอบได้วย Operating System ต่าง ๆ รวมถึง Raspbian ที่เราจะใช้ในการติดตั้ง
 {% endhint %}
 
-## **Requirement**
+## **✅ Requirement**
 
 * [NOOBS Image](https://www.raspberrypi.org/downloads/noobs/)
 * [Win32DiskImager](https://win32diskimager.download/)
@@ -14,7 +14,7 @@
 * Keyboard
 * Mouse
 
-## **Install**
+## **🏆Install**
 
 * ทำการ Format Micro SD Card โดยเลือก File System เป็น FAT32
 
