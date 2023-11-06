@@ -37,6 +37,7 @@
 ## 🙇♂ Server
 
 * [Windows Server](server/windows-server/README.md)
+  * [👺 Upgrade Windows Server 2003 SP2 to Windows Server 2008 R2](server/windows-server/upgrade-windows-server-2003-sp2-to-windows-server-2008-r2.md)
 * [Linux Server](server/linux-server/README.md)
   * [👿 Fix SSH Error: no matching key exchange method found](server/linux-server/fix-ssh-error-no-matching-key-exchange-method-found.md)
   * [👿 Fix Ubuntu Package Manager Lock: Could not get lock /var/lib/dpkg/lock](server/linux-server/fix-ubuntu-package-manager-lock-could-not-get-lock-var-lib-dpkg-lock.md)
