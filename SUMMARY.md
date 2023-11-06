@@ -13,8 +13,9 @@
   * [🍎 Install NTP on Oracle Linux](database/oracle-database/install-ntp-on-oracle-linux.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
-* [Microsoft SQL Server](database/microsoft-sql-server/README.md)
+* [Microsoft SQL Server](database/microsoft-sql-server.md)
   * [💊 Backup SQL Server Database with SQL Backup and FTP](database/microsoft-sql-server/backup-sql-server-database-with-sql-backup-and-ftp.md)
+  * [💉 Backup Full SQL Server with SQL Script](database/microsoft-sql-server/backup-full-sql-server-with-sql-script.md)
 * [MariaDB](database/mariadb/README.md)
   * [🦭 Fix MySQL and MariaDB Error Access Denied for User Root](database/mariadb/fix-mysql-and-mariadb-error-access-denied-for-user-root.md)
 
