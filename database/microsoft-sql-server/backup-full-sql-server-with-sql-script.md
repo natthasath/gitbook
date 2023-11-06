@@ -12,11 +12,11 @@
 
 * คลิกขวา Database ที่จะ Backup แล้วเลือก Task -> Backup
 
-![](https://codeinsane.files.wordpress.com/2020/10/sqlserver-01.png)
+![](../../.gitbook/assets/sqlserver-01.png)
 
 * คลิก Script
 
-![](https://codeinsane.files.wordpress.com/2020/10/sqlserver-02.png)
+![](../../.gitbook/assets/sqlserver-02.png)
 
 * เขียน Script เพิ่มเติม โดยทำการ Declare Path และ File Name ตามวันที่
 
@@ -32,10 +32,10 @@ GO
 
 * ทำการกำหนด Task Schedule
 
-![](https://codeinsane.files.wordpress.com/2020/10/sqlserver-03.png)
+![](../../.gitbook/assets/sqlserver-03.png)
 
 * ทำการกำหนด Trigger
 
-![](https://codeinsane.files.wordpress.com/2020/10/sqlserver-04.png)
+![](../../.gitbook/assets/sqlserver-04.png)
 
 **อ่านเพิ่มเติม** : [https://bit.ly/37WOVur](https://bit.ly/37WOVur)
