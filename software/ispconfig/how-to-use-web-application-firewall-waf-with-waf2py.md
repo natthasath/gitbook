@@ -32,14 +32,14 @@ chmod +x waf2py_installer.sh
 
 * ลองเข้าไปที่ [https://localhost:62443](https://localhost:62443/) แล้วกรอก Username และ Password ด้วย admin : password
 
-<figure><img src="https://codeinsane.files.wordpress.com/2023/10/waf2py-01.png?w=1024" alt="" height="490" width="1024"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/waf2py-01.png" alt=""><figcaption></figcaption></figure>
 
 * หลังจาก Login เข้ามาจะเห็นหน้าตาแบบนี้
 
-<figure><img src="https://codeinsane.files.wordpress.com/2023/10/waf2py-02.png?w=1024" alt="" height="490" width="1024"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/waf2py-02.png" alt=""><figcaption></figcaption></figure>
 
 * หน้าตา Dashboard
 
-<figure><img src="https://codeinsane.files.wordpress.com/2023/10/waf2py-03.png?w=1024" alt="" height="490" width="1024"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/waf2py-03.png" alt=""><figcaption></figcaption></figure>
 
 **อ่านเพิ่มเติม** : [https://bit.ly/3ZPVN5x](https://bit.ly/3ZPVN5x)
