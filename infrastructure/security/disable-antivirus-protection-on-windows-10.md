@@ -8,22 +8,22 @@
 
 * ทำการเปิด Windows Settings แล้วคลิก Update & Security
 
-<figure><img src="https://codeinsane.files.wordpress.com/2021/02/protection-01.png?w=1024" alt="" height="554" width="1024"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/protection-01.png" alt=""><figcaption></figcaption></figure>
 
 * คลิก Windows Security
 
-<figure><img src="https://codeinsane.files.wordpress.com/2021/02/protection-02.png?w=1024" alt="" height="554" width="1024"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/protection-02.png" alt=""><figcaption></figcaption></figure>
 
 * คลิก Virus & threat protection
 
-<figure><img src="https://codeinsane.files.wordpress.com/2021/02/protection-03.png?w=1024" alt="" height="554" width="1024"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/protection-03.png" alt=""><figcaption></figcaption></figure>
 
 * คลิก Virus & threat protection settings -> Manage settings
 
-<figure><img src="https://codeinsane.files.wordpress.com/2021/02/protection-04.png?w=1024" alt="" height="554" width="1024"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/protection-04.png" alt=""><figcaption></figcaption></figure>
 
 * เลือก Real-time protection แล้วทำการ Turn-Off
 
-<figure><img src="https://codeinsane.files.wordpress.com/2021/02/protection-05-1.png?w=1024" alt="" height="554" width="1024"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/protection-05.png" alt=""><figcaption></figcaption></figure>
 
 **อ่านเพิ่มเติม** : [https://bit.ly/2VVHTyI](https://bit.ly/2VVHTyI)
