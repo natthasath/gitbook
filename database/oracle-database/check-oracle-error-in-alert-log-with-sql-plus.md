@@ -38,11 +38,13 @@ select record_id,
 to_char(originating_timestamp,'DD-MON-YYYY HH24:MI:SS') "TIMESTAMP", message_text 
 from X$DBGALERTEXT 
 where originating_timestamp > systimestamp - 365 and regexp_like(message_text, '(ORA-|error)') order by record_id ;
+```
+{% endcode %}
 
+```
    ID TIMESTAMP            message
 -------- -------------------- -----------------------------
    32109 17-APR-2021 00:00:19 ORA-00060: Deadlock detected.
 ```
-{% endcode %}
 
 **อ่านเพิ่มเติม** : [https://bit.ly/3pBYJRF](https://bit.ly/3pBYJRF)
