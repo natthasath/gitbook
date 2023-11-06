@@ -80,4 +80,45 @@
 504 – Gateway timeout.\
 505 – HTTP version not supported.
 
+<details>
+
+<summary>100 : Informational</summary>
+
+100 – Continue.\
+101 – Switching protocols.
+
+</details>
+
+<details>
+
+<summary>200 : Success</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>300 : Redirection</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>400 : Client Error</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>500 : Server Error</summary>
+
+
+
+</details>
+
 **อ่านเพิ่มเติม** : [https://bit.ly/3b5DO5V](https://bit.ly/3b5DO5V)
