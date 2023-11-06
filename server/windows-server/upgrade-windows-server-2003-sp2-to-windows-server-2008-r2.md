@@ -15,30 +15,30 @@
 
 * คลิก Install
 
-![Upgrade-02](https://codeinsane.files.wordpress.com/2020/08/upgrade-02.png?w=636)
+![Upgrade-02](../../.gitbook/assets/upgrade-01.png)
 
 * ทำการ Uncheck Help ออก แล้วคลิก Go online to get the latest updates for installation
 
-![Upgrade-03](https://codeinsane.files.wordpress.com/2020/08/upgrade-03.png?w=636)
+![Upgrade-03](../../.gitbook/assets/upgrade-02.png)
 
 * ทำการ Uncheck Automatically activate Windows ออก แล้วคลิก Next
 
-![Upgrade-04](https://codeinsane.files.wordpress.com/2020/08/upgrade-04-1.png?w=636)
+![Upgrade-04](../../.gitbook/assets/upgrade-03.png)
 
 * คลิก No
 
-![Upgrade-05](https://codeinsane.files.wordpress.com/2020/08/upgrade-05.png?w=636)
+![Upgrade-05](../../.gitbook/assets/upgrade-04.png)
 
 * เลือก Windows Server 2008 Standard (Full Installation) แล้วคลิก Next คำเตือนเลือกให้ตรงกับ Windows Version เดิม ถ้าเป็น Enterprise เลือก Enterprise
 
-![Upgrade-06](https://codeinsane.files.wordpress.com/2020/08/upgrade-06.png?w=636)
+![Upgrade-06](../../.gitbook/assets/upgrade-05.png)
 
 * ทำการ Check I accept the license terms แล้วคลิก Next
 
-![Upgrade-07](https://codeinsane.files.wordpress.com/2020/08/upgrade-07.png?w=636)
+![Upgrade-07](../../.gitbook/assets/upgrade-06.png)
 
 * กรณีที่ไม่สามารถคลิก Upgrade ได้ อาจเกิดจาก Open Remote Desktop ให้ทำการ Close Connection แล้วไปทำหน้า Console แทน
 
-![Upgrade-08](https://codeinsane.files.wordpress.com/2020/08/upgrade-08.png?w=636)
+![Upgrade-08](../../.gitbook/assets/upgrade-07.png)
 
 **อ่านเพิ่มเติม** : [https://bit.ly/3g6ncYx](https://bit.ly/3g6ncYx)
