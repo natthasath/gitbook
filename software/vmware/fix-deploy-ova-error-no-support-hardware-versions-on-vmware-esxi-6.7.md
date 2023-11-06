@@ -4,7 +4,7 @@
 ในกรณีที่เราทำการ Deploy OVF Template ที่มี Format แบบ OVA แล้ว Virtual Hardware Version ไม่ Compatible กับ VMware ESXi Version จะทำให้ไม่สามารถ Deploy ได้ สามารถตรวจสอบ Virtual Hardware Compatible ได้ที่ [http://bit.ly/3U2dEBN](http://bit.ly/3U2dEBN)
 {% endhint %}
 
-<figure><img src="https://codeinsane.files.wordpress.com/2022/11/virtualhw-01.png?w=900" alt="" height="52" width="900"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/virtualhw-01.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Cause** :สาเหตุเนื่องมาจาก Virtual Hardware Version ของไฟล์ OVA ไม่ Compatible กับ VMware ESXi Version แต่เราสามารแก้ไข Virtual Hardware Version ของไฟล์ VMX ให้ตรงกับ VMware ESXi Version ที่รองรับ ก่อนทำการ Convert เป็นไฟล์ OVA
