@@ -20,8 +20,11 @@
 
 * ทำการ Update Patches
 
-<pre data-title="#" data-overflow="wrap"><code><strong>esxcli software vib update -d "/vmfs/volumes/datastore/patch/PatchName.zip"
-</strong></code></pre>
+{% code title="#" %}
+```
+esxcli software vib update -d "/vmfs/volumes/datastore/patch/PatchName.zip"
+```
+{% endcode %}
 
 {% code overflow="wrap" %}
 ```
