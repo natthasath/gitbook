@@ -6,7 +6,7 @@
 
 ## 🚀 Core Factor Table
 
-| VENDOR AND PROCESSOR                               | CORE PROCESSOR LICENSING FACTOR |
+| Vendor and Processor                               | Core Processor Licensing Factor |
 | -------------------------------------------------- | :-----------------------------: |
 | Sun and Fujitsu UltraSPARC T1                      |               0.25              |
 | Sun Netra T2000 UltraSPARC T1                      |               0.25              |
