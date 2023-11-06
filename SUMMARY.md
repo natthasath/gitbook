@@ -107,6 +107,7 @@
 * [Outlook](microsoft-365/outlook/README.md)
   * [📩 How to enable Forward Email on Microsoft Office 365 to Another Domain](microsoft-365/outlook/how-to-enable-forward-email-on-microsoft-office-365-to-another-domain.md)
   * [📩 Fix Mailbox Storage Limit on Microsoft Office 365 with Compliance Search](microsoft-365/outlook/fix-mailbox-storage-limit-on-microsoft-office-365-with-compliance-search.md)
+  * [📩 Fix can’t Search Thai Language on Microsoft Outlook](microsoft-365/outlook/fix-cant-search-thai-language-on-microsoft-outlook.md)
 * [Power Automate](microsoft-365/power-automate/README.md)
   * [☁ How to Rename all Files in Folder use UUID with Power Automate Desktop](microsoft-365/power-automate/how-to-rename-all-files-in-folder-use-uuid-with-power-automate-desktop.md)
 * [SharePoint](microsoft-365/sharepoint/README.md)
