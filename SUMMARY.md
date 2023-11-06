@@ -9,6 +9,7 @@
   * [🍊 Oracle Processor Core Factor Table](database/oracle-database/oracle-processor-core-factor-table.md)
   * [🍎 Oracle Processor Core Factor Table](database/oracle-database/oracle-processor-core-factor-table-1.md)
   * [🍇 Check Oracle Error in Alert Log with SQL\*Plus](database/oracle-database/check-oracle-error-in-alert-log-with-sql-plus.md)
+  * [🍏 Create Oracle Corrupt Data Block](database/oracle-database/create-oracle-corrupt-data-block.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
 * [Microsoft SQL Server](database/microsoft-sql-server.md)
