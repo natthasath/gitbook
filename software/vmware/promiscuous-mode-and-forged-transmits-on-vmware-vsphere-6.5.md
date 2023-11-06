@@ -8,7 +8,7 @@
 
 แปลตรงตัวก็คือโหมดสำส่อน ซึ่งในทาง Network นั้นหมายความว่า เป็นการเปิดโหมดให้รับ Packet ต่าง ๆ ทั้งหมด ที่ส่งมายังการ์ด Network Interface โดยไม่สนว่าข้อมูลที่ถูกส่งมาจำเป็นต้องส่งมาที่ MAC Address ของเรา ซึ่งจากการเปิดโหมดให้รับ Packet ต่าง ๆ ทั้งหมด จะต้องมีปริมาณ Network Throughput เพิ่มขึ้นตามมา ควรจะพิจารณาแยก Environment ของ Nested ESXi ออกมา
 
-![Promicuous-01.png](https://codeinsane.files.wordpress.com/2018/09/promicuous-01.png?w=636)
+![Promicuous-01.png](../../.gitbook/assets/promicuous-01.png)
 
 ## **☘️ Forged Transmits**
 

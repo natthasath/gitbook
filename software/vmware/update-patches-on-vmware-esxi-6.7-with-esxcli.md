@@ -8,15 +8,15 @@
 
 * ทำการดาวน์โหลด Patch ผ่านทาง [VMware Patch Portal](https://my.vmware.com/group/vmware/patch#search)
 
-![](https://codeinsane.files.wordpress.com/2020/09/patch-01-2.png)
+![](../../.gitbook/assets/patch-01.png)
 
 * ทำการ Upload ไปยัง Datastore ของ VMware ESXi
 
-![](https://codeinsane.files.wordpress.com/2020/09/patch-02.png)
+![](../../.gitbook/assets/patch-02.png)
 
 * ทำการ Enable SSH
 
-![](https://codeinsane.files.wordpress.com/2020/09/patch-03.png)
+![](../../.gitbook/assets/patch-03.png)
 
 * ทำการ Update Patches
 
