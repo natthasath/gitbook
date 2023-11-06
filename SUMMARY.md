@@ -64,6 +64,7 @@
   * [🟢 HTTP Response Status Code](programming/fundamental/http-response-status-code.md)
 * [Tools](programming/tools/README.md)
   * [Generative AI Tools](programming/tools/generative-ai-tools.md)
+  * [Prompt Tools](programming/tools/prompt-tools.md)
   * [Design Tools](programming/tools/design-tools.md)
   * [DEV Tools](programming/tools/dev-tools.md)
 * [Visual Studio Code](programming/visual-studio-code/README.md)
