@@ -8,7 +8,7 @@
 
 * กด Ctrl + Shift + P แล้วเลือก Preferences: Open User Settings (JSON)
 
-<figure><img src="../../.gitbook/assets/vscode-git-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/vscode-git-01.png" alt=""><figcaption></figcaption></figure>
 
 * ทำการแก้ไขค่า Parameter จาก True เป็น False ในไฟล์ settings.json
 
@@ -20,6 +20,6 @@
 
 * เราก็จะเห็นโฟลเดอร์ .git
 
-<figure><img src="../../.gitbook/assets/vscode-git-02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/vscode-git-02.png" alt=""><figcaption></figcaption></figure>
 
 **อ่านเพิ่มเติม** : [https://bit.ly/47mrozc](https://bit.ly/47mrozc)
