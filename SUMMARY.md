@@ -88,7 +88,7 @@
 ## 👨🍼 Other
 
 * [Big Data](other/big-data/README.md)
-  * [🐱 Big Data ของกระทรวงสาธารณะสุข](other/big-data/big-data.md)
+  * [🐱 Big Data ของกระทรวงสาธารณสุข](other/big-data/big-data.md)
 * [Chat Bot](other/chat-bot/README.md)
   * [Chatfuel](other/chat-bot/chatfuel/README.md)
     * [🍭 Facebook Chatbot with Chatfuel](other/chat-bot/chatfuel/facebook-chatbot-with-chatfuel.md)
