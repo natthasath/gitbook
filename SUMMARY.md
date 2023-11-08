@@ -104,7 +104,7 @@
   * [🧤 Install YOLO Object Detection on Windows 10](other/machine-learning/install-yolo-object-detection-on-windows-10.md)
 * [Standard](other/standard/README.md)
   * [💻 Computer Naming Convention](other/standard/computer-naming-convention.md)
-  * [🎁 Data Standard](other/standard/data-standard.md)
+  * [🎁 มาตรฐานข้อมูลกลาง](other/standard/undefined.md)
 * [Policy](other/policy/README.md)
   * [🍔 GDPR & PDPA](other/policy/gdpr-and-pdpa.md)
   * [🍟 TDPG 2.0](other/policy/tdpg-2.0.md)
