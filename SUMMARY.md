@@ -61,6 +61,7 @@
 ## 👩🍼 Programming
 
 * [Fundamental](programming/fundamental/README.md)
+  * [🔵 ID Token vs Access Token](programming/fundamental/id-token-vs-access-token.md)
   * [🟢 HTTP Response Status Code](programming/fundamental/http-response-status-code.md)
 * [Tools](programming/tools/README.md)
   * [AI Tools](programming/tools/ai-tools/README.md)
@@ -101,7 +102,7 @@
 * [Machine Learning](other/machine-learning.md)
   * [🧤 PC SPEC for Deep Learning 2021](other/machine-learning/pc-spec-for-deep-learning-2021.md)
   * [🧤 Install YOLO Object Detection on Windows 10](other/machine-learning/install-yolo-object-detection-on-windows-10.md)
-* [Standard](other/organize/README.md)
+* [Standard](other/standard/README.md)
   * [💻 Computer Naming Convention](other/standard/computer-naming-convention.md)
   * [🎁 Data Standard](other/standard/data-standard.md)
 * [Policy](other/policy/README.md)
