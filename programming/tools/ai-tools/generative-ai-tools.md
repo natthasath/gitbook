@@ -8,6 +8,10 @@
 
 {% embed url="https://bard.google.com/chat" %}
 
+## Claude
+
+{% embed url="https://claude.ai/" %}
+
 ## SciSpace
 
 {% embed url="https://typeset.io/" %}
