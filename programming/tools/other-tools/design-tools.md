@@ -6,4 +6,6 @@
 
 {% embed url="https://www.capcut.com/" %}
 
+{% embed url="https://openpeeps.com/" %}
+
 {% embed url="https://kahoot.it/" %}
