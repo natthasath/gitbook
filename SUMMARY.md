@@ -72,6 +72,7 @@
   * [Other Tools](programming/tools/other-tools/README.md)
     * [🚙 Design Tools](programming/tools/other-tools/design-tools.md)
     * [🛻 SEO Tools](programming/tools/other-tools/seo-tools.md)
+    * [🚚 CI/CD Tools](programming/tools/other-tools/ci-cd-tools.md)
   * [Visual Studio Code](programming/tools/visual-studio-code/README.md)
     * [🌑 How to show Folder .git in Visual Studio Code](programming/tools/visual-studio-code/how-to-show-folder-.git-in-visual-studio-code.md)
 * [Python](programming/python/README.md)
