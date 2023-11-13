@@ -4,4 +4,6 @@
 
 {% embed url="https://www.figma.com/" %}
 
+{% embed url="https://www.capcut.com/" %}
+
 {% embed url="https://kahoot.it/" %}
