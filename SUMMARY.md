@@ -104,6 +104,7 @@
   * [🧤 PC SPEC for Deep Learning 2021](other/machine-learning/pc-spec-for-deep-learning-2021.md)
   * [🧤 Install YOLO Object Detection on Windows 10](other/machine-learning/install-yolo-object-detection-on-windows-10.md)
 * [Standard](other/standard/README.md)
+  * [🧬 Digital ID](other/standard/digital-id.md)
   * [💻 Computer Naming Convention](other/standard/computer-naming-convention.md)
   * [🎁 มาตรฐานข้อมูลกลาง](other/standard/undefined.md)
 * [Policy](other/policy/README.md)
