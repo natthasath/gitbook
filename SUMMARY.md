@@ -16,6 +16,7 @@
   * [🥥 Check Oracle Error Message with OERR](database/oracle-database/check-oracle-error-message-with-oerr.md)
   * [🥝 Change and Restore Password on Oracle](database/oracle-database/change-and-restore-password-on-oracle.md)
   * [🍅 Fix Oracle could not find Archive Log](database/oracle-database/fix-oracle-could-not-find-archive-log.md)
+  * [🥭 Check Database Uptime on Oracle](database/oracle-database/check-database-uptime-on-oracle.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
 * [Microsoft SQL Server](database/microsoft-sql-server.md)
