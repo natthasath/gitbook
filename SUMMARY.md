@@ -95,6 +95,8 @@
     * [🚚 CI/CD Tools](programming/tools/other-tools/ci-cd-tools.md)
     * [🚙 Design Tools](programming/tools/other-tools/design-tools.md)
     * [🛻 SEO Tools](programming/tools/other-tools/seo-tools.md)
+  * [Package Tools](programming/tools/package-tools/README.md)
+    * [🧶 Top NuGet Package .NET Core](programming/tools/package-tools/top-nuget-package-.net-core.md)
   * [Visual Studio Code](programming/tools/visual-studio-code/README.md)
     * [🌑 How to show Folder .git in Visual Studio Code](programming/tools/visual-studio-code/how-to-show-folder-.git-in-visual-studio-code.md)
     * [🌑 Fix CMake not Found Visual Studio](programming/tools/visual-studio-code/fix-cmake-not-found-visual-studio.md)
