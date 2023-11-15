@@ -93,6 +93,7 @@
     * [🛻 SEO Tools](programming/tools/other-tools/seo-tools.md)
   * [Visual Studio Code](programming/tools/visual-studio-code/README.md)
     * [🌑 How to show Folder .git in Visual Studio Code](programming/tools/visual-studio-code/how-to-show-folder-.git-in-visual-studio-code.md)
+    * [🌑 Fix CMake not Found Visual Studio](programming/tools/visual-studio-code/fix-cmake-not-found-visual-studio.md)
 * [Python](programming/python/README.md)
   * [Poetry](programming/python/poetry/README.md)
     * [🐍 Poetry Virtual Environment Command](programming/python/poetry/poetry-virtual-environment-command.md)
