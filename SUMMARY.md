@@ -95,6 +95,7 @@
     * [🚕 Prompt Tools](programming/tools/ai-tools/prompt-tools.md)
   * [Extension Tools](programming/tools/extension-tools/README.md)
     * [❄ Top Extension Microsoft Edge](programming/tools/extension-tools/top-extension-microsoft-edge.md)
+    * [❄ Top Extension Visual Studio Code](programming/tools/extension-tools/top-extension-visual-studio-code.md)
   * [Other Tools](programming/tools/other-tools/README.md)
     * [🚛 Business Tools](programming/tools/other-tools/business-tools.md)
     * [🚚 CI/CD Tools](programming/tools/other-tools/ci-cd-tools.md)
