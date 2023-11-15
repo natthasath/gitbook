@@ -108,6 +108,7 @@
   * [Laravel](programming/php/laravel.md)
 * [.NET Core](programming/.net-core/README.md)
   * [🐹 .NET Core Automatic Code Review with SonarQube](programming/.net-core/.net-core-automatic-code-review-with-sonarqube.md)
+  * [🐹 .NET Core Disable Authentication in Development Environment](programming/.net-core/.net-core-disable-authentication-in-development-environment.md)
 
 ## 👨🍼 Other
 
