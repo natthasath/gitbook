@@ -18,6 +18,7 @@
   * [🍅 Fix Oracle could not find Archive Log](database/oracle-database/fix-oracle-could-not-find-archive-log.md)
   * [🥭 Check Database Uptime on Oracle](database/oracle-database/check-database-uptime-on-oracle.md)
   * [🍑 Fix Oracle Date Format](database/oracle-database/fix-oracle-date-format.md)
+  * [🍐 Identity Column on Oracle](database/oracle-database/identity-column-on-oracle.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
 * [Microsoft SQL Server](database/microsoft-sql-server.md)
