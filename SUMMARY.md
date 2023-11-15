@@ -113,6 +113,7 @@
 * [Docker](other/docker/README.md)
   * [🐳 How to Trust Sign Image on Docker](other/docker/how-to-trust-sign-image-on-docker.md)
   * [🐳 Upgrade Docker Compose](other/docker/upgrade-docker-compose.md)
+  * [🐳 Install Nginx-RTMP and FSTV-Monitor on Docker](other/docker/install-nginx-rtmp-and-fstv-monitor-on-docker.md)
 * [Machine Learning](other/machine-learning.md)
   * [🧤 PC SPEC for Deep Learning 2021](other/machine-learning/pc-spec-for-deep-learning-2021.md)
   * [🧤 Install YOLO Object Detection on Windows 10](other/machine-learning/install-yolo-object-detection-on-windows-10.md)
