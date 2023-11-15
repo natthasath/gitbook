@@ -14,6 +14,7 @@
   * [🫐 Best Practice Check Tablespace Size on Oracle](database/oracle-database/best-practice-check-tablespace-size-on-oracle.md)
   * [🍍 Fix Password File Missing on Oracle](database/oracle-database/fix-password-file-missing-on-oracle.md)
   * [🥥 Check Oracle Error Message with OERR](database/oracle-database/check-oracle-error-message-with-oerr.md)
+  * [🥝 Change and Restore Password on Oracle](database/oracle-database/change-and-restore-password-on-oracle.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
 * [Microsoft SQL Server](database/microsoft-sql-server.md)
