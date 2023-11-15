@@ -148,6 +148,7 @@
   * [📙 How to post Approve Comment to SharePoint List with Power Automate](microsoft-365/sharepoint/how-to-post-approve-comment-to-sharepoint-list-with-power-automate.md)
   * [📙 Generate Unique ID in SharePoint List when Submit Microsoft Form](microsoft-365/sharepoint/generate-unique-id-in-sharepoint-list-when-submit-microsoft-form.md)
   * [📙 Fix Unified Group is not Recognized on Powershell](microsoft-365/sharepoint/fix-unified-group-is-not-recognized-on-powershell.md)
+  * [📙 How to delete Permanent SharePoint Site](microsoft-365/sharepoint/how-to-delete-permanent-sharepoint-site.md)
 
 ## 🧜♀ Web Server
 
