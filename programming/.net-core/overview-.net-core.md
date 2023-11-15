@@ -8,7 +8,9 @@
 
 ## Overview
 
+{% hint style="success" %}
 .NET Core เป็น Other Framework ที่ได้รับความนิยมสูงสุดของปี 2019 บน [Stack Overflow](https://insights.stackoverflow.com/survey/2019) จากการที่มันเป็น Programming Language แบบ Cross-Platform นั่นเอง โดยจะใช้ Library แยกจาก .NET Framework แต่จะใช้ Compiler & Runtime Component ร่วมกัน
+{% endhint %}
 
 ![.NET\_Core-02.png](../../.gitbook/assets/net\_core-02.png)
 
@@ -18,16 +20,24 @@
 
 ![.NET\_Core-03.png](../../.gitbook/assets/net\_core-03.png)
 
-.NET Core เกิดจากการที่ Microsoft ประกาศ Open Source เทคโนโลยีของ .NET Framework ให้ [.NET Foundation](https://dotnetfoundation.org/) องค์กรกลางเป็นผู้ดูแล แล้วพัฒนาต่อมาเป็น .NET Core เพื่อให้สามารถทำงานแแบบ Cross-Platform ได้ โดยมี Feature แค่บางส่วนของ .NET Framwork ในเวอร์ชั่นแรก ซึ่งแนวทางพัฒนาจะไปทาง .NET Core มากขึ้น เพื่อป้องกันปัญหาจากการย้าย .NET Framework ไปรันบน .NET Core ทาง Microsoft จึงกำหนดมาตรฐานกลาง [.NET Standard](https://dotnet.microsoft.com/platform/dotnet-standard) ขึ้นมา ซึ่งเป็นชุดของ API ที่ทั้ง .NET Core และ .NET Framework จะต้องเรียกใช้
+{% tabs %}
+{% tab title=".NET Core" %}
+เกิดจากการที่ Microsoft ประกาศ Open Source เทคโนโลยีของ .NET Framework ให้ [.NET Foundation](https://dotnetfoundation.org/) องค์กรกลางเป็นผู้ดูแล แล้วพัฒนาต่อมาเป็น .NET Core เพื่อให้สามารถทำงานแแบบ Cross-Platform ได้ โดยมี Feature แค่บางส่วนของ .NET Framwork ในเวอร์ชั่นแรก ซึ่งแนวทางพัฒนาจะไปทาง .NET Core มากขึ้น เพื่อป้องกันปัญหาจากการย้าย .NET Framework ไปรันบน .NET Core ทาง Microsoft จึงกำหนดมาตรฐานกลาง [.NET Standard](https://dotnet.microsoft.com/platform/dotnet-standard) ขึ้นมา ซึ่งเป็นชุดของ API ที่ทั้ง .NET Core และ .NET Framework จะต้องเรียกใช้
+{% endtab %}
 
-.NET Framework จะเหมาะกับงานด้าน Windows Application ที่ใช้ Windows Forms, WPF และ UWP ส่วน .NET Core จะเหมาะกับงานด้าน Web Application ที่ต้องการ High Performance & Scalable โดยใช้สถาปัตยกรรมแบบ Microservice ซึ่งจะสะดวกกว่า เร็วกว่า รองรับการทำงานแบบ Cross-Platform และ .NET CLI แต่แลกมาด้วย Learning Curve ที่สูงขึ้น แต่เชื่อเถอะว่าง่ายกว่าตอนเขียน Web Application ที่เขียนบน .NET Framework แบบเดิมเยอะ แต่โดยส่วนใหญ่จะใช้ .NET Core ทำเป็น Web API แต่ไม่ว่าจะเป็น .NET Core หรือ .NET Framework
+{% tab title=".NET Framework" %}
+จะเหมาะกับงานด้าน Windows Application ที่ใช้ Windows Forms, WPF และ UWP ส่วน .NET Core จะเหมาะกับงานด้าน Web Application ที่ต้องการ High Performance & Scalable โดยใช้สถาปัตยกรรมแบบ Microservice ซึ่งจะสะดวกกว่า เร็วกว่า รองรับการทำงานแบบ Cross-Platform และ .NET CLI แต่แลกมาด้วย Learning Curve ที่สูงขึ้น แต่เชื่อเถอะว่าง่ายกว่าตอนเขียน Web Application ที่เขียนบน .NET Framework แบบเดิมเยอะ แต่โดยส่วนใหญ่จะใช้ .NET Core ทำเป็น Web API แต่ไม่ว่าจะเป็น .NET Core หรือ .NET Framework
+{% endtab %}
+{% endtabs %}
 
 **อ่านเพิ่มเติม** : [https://bit.ly/2xSS0I8](https://bit.ly/2xSS0I8)
 
 ## **.NET 5**
 
-![.NET\_Core-04.png](../../.gitbook/assets/net\_core-04.png)
-
+{% hint style="success" %}
 หลังจากการเปิดตัว .NET Core 3.0 ทาง Microsoft ก็ประกาศการเปิดตัวครั้งต่อไปจะเป็น [.NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/) ในเดือนพฤศจิกายน 2020 ซึ่งเป็นการรวม .NET Core และ .NET Framework เข้าด้วยกัน โดยจะต้องทำการ Update Visual Studio และ Visual Code ให้รองรับในช่วงครึ่งแรกของปี
+{% endhint %}
+
+![.NET\_Core-04.png](../../.gitbook/assets/net\_core-04.png)
 
 **อ่านเพิ่มเติม** : [https://bit.ly/2EACeVZ](https://bit.ly/2EACeVZ)
