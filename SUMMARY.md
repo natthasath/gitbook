@@ -78,6 +78,7 @@
 * [Fundamental](programming/fundamental/README.md)
   * [🔵 ID Token vs Access Token](programming/fundamental/id-token-vs-access-token.md)
   * [🟢 HTTP Response Status Code](programming/fundamental/http-response-status-code.md)
+  * [🔴 NULL vs NOT NULL](programming/fundamental/null-vs-not-null.md)
 * [Tools](programming/tools/README.md)
   * [AI Tools](programming/tools/ai-tools/README.md)
     * [🚗 Generative AI Tools](programming/tools/ai-tools/generative-ai-tools.md)
