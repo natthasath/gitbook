@@ -59,6 +59,8 @@
   * [🌠 Update Patches on VMware ESXi 6.7 with ESXCLI](software/vmware/update-patches-on-vmware-esxi-6.7-with-esxcli.md)
 * [Veeam Backup](software/veeam-backup/README.md)
   * [🧊 Install Veeam Backup & Replication 11 on Windows](software/veeam-backup/install-veeam-backup-and-replication-11-on-windows.md)
+* [ESET](software/eset/README.md)
+  * [🐕🦺 Fix can’t Uninstall ESET Management Agent](software/eset/fix-cant-uninstall-eset-management-agent.md)
 
 ## 👩🍼 Programming
 
