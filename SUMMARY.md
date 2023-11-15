@@ -13,6 +13,7 @@
   * [🍎 Install NTP on Oracle Linux](database/oracle-database/install-ntp-on-oracle-linux.md)
   * [🫐 Best Practice Check Tablespace Size on Oracle](database/oracle-database/best-practice-check-tablespace-size-on-oracle.md)
   * [🍍 Fix Password File Missing on Oracle](database/oracle-database/fix-password-file-missing-on-oracle.md)
+  * [🥥 Check Oracle Error Message with OERR](database/oracle-database/check-oracle-error-message-with-oerr.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
 * [Microsoft SQL Server](database/microsoft-sql-server.md)
