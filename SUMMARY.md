@@ -43,6 +43,7 @@
 * [Linux Server](server/linux-server/README.md)
   * [👿 Fix SSH Error: no matching key exchange method found](server/linux-server/fix-ssh-error-no-matching-key-exchange-method-found.md)
   * [👿 Fix Ubuntu Package Manager Lock: Could not get lock /var/lib/dpkg/lock](server/linux-server/fix-ubuntu-package-manager-lock-could-not-get-lock-var-lib-dpkg-lock.md)
+  * [👿 Install Kali Linux GUI on Windows Subsystem for Linux](server/linux-server/install-kali-linux-gui-on-windows-subsystem-for-linux.md)
 
 ## 🧑🍼 Software
 
