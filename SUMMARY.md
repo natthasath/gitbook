@@ -12,6 +12,7 @@
   * [🍌 RMAN Backup Tuning](database/oracle-database/rman-backup-tuning.md)
   * [🍎 Install NTP on Oracle Linux](database/oracle-database/install-ntp-on-oracle-linux.md)
   * [🫐 Best Practice Check Tablespace Size on Oracle](database/oracle-database/best-practice-check-tablespace-size-on-oracle.md)
+  * [🍍 Fix Password File Missing on Oracle](database/oracle-database/fix-password-file-missing-on-oracle.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
 * [Microsoft SQL Server](database/microsoft-sql-server.md)
