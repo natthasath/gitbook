@@ -163,6 +163,8 @@
   * [📙 How to delete Permanent SharePoint Site](microsoft-365/sharepoint/how-to-delete-permanent-sharepoint-site.md)
 * [Microsoft Teams](microsoft-365/microsoft-teams/README.md)
   * [👔 How to enable Guest Access on Microsoft Team](microsoft-365/microsoft-teams/how-to-enable-guest-access-on-microsoft-team.md)
+* [Admin](microsoft-365/admin/README.md)
+  * [😱 Redo Provisioning Microsoft Office 365](microsoft-365/admin/redo-provisioning-microsoft-office-365.md)
 
 ## 🧜♀ Web Server
 
