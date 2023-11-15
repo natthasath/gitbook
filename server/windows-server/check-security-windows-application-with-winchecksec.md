@@ -4,7 +4,7 @@
 Winchecksec เป็น Open Source Security Framework ของทางฝั่ง Windows Application ที่ใช้ในการตรวจสอบความปลอดภัยของโปรแกรม อย่างการที่แฮกเกอร์สามารถนำโค้ดไปแทรกรันบนโปรแกรม แล้วทำการเรียก System Call ซึ่งโดยปกติจะมี Address ที่ตายตัว แต่หากทำการ Random Address ด้วยเทคนิค ASLR ก็จะสามารถเพิ่มความปลอดภัยให้กับโปรแกรม
 {% endhint %}
 
-## **✨ Feature**
+## **Feature**
 
 * Address-Space Layout Randomization ( ASLR ) & High-Entropy ASLR ( HEASLR )
 * Authentication & Integrity Protection
@@ -14,12 +14,12 @@ Winchecksec เป็น Open Source Security Framework ของทางฝั
 * Control Flow Guard ( CFG ) and Return Flow Guard ( RFG )
 * Guard Stack ( GS )
 
-## **✅ Requirement**
+## **Requirement**
 
 * [Install CMake](https://cmake.org/download/)
 * [Install Visual Studio 2017](https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes)
 
-## **🏆 Get Started**
+## **Get Started**
 
 * ทำการดาวน์โหลด Winchecksec จาก GitHubgit clone --recurse -submodules https://github.com/trailofbits/winchecksec.git
 
