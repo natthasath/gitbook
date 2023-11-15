@@ -59,6 +59,7 @@
   * [🌠 VMware Workstation and VMware ESXi Compatible](software/vmware/vmware-workstation-and-vmware-esxi-compatible.md)
   * [🌠 Promiscuous Mode and Forged Transmits on VMware vSphere 6.5](software/vmware/promiscuous-mode-and-forged-transmits-on-vmware-vsphere-6.5.md)
   * [🌠 Update Patches on VMware ESXi 6.7 with ESXCLI](software/vmware/update-patches-on-vmware-esxi-6.7-with-esxcli.md)
+  * [🌠 Fix Alert Hyperthreading Unmitigated on VMware ESXi 6.7](software/vmware/fix-alert-hyperthreading-unmitigated-on-vmware-esxi-6.7.md)
 * [Veeam Backup](software/veeam-backup/README.md)
   * [🧊 Install Veeam Backup & Replication 11 on Windows](software/veeam-backup/install-veeam-backup-and-replication-11-on-windows.md)
 * [ESET](software/eset/README.md)
