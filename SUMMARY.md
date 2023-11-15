@@ -11,6 +11,7 @@
   * [🍏 Create Oracle Corrupt Data Block](database/oracle-database/create-oracle-corrupt-data-block.md)
   * [🍌 RMAN Backup Tuning](database/oracle-database/rman-backup-tuning.md)
   * [🍎 Install NTP on Oracle Linux](database/oracle-database/install-ntp-on-oracle-linux.md)
+  * [🫐 Best Practice Check Tablespace Size on Oracle](database/oracle-database/best-practice-check-tablespace-size-on-oracle.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
 * [Microsoft SQL Server](database/microsoft-sql-server.md)
