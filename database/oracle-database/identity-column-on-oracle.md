@@ -24,7 +24,7 @@ CREATE TABLE ADMIN (
 ```
 {% endcode %}
 
-* ลองทำการ Insert Data คำเตือนจะไม่สามารถ Assign ค่าใน ADMIN\_ID ได้ เนื่องจากจะถูก Generate โดยอัตโนมัติทุกครั้ง รวมถึงค่า NULL ก็ไม่สามารถ Assign ได้
+* ลองทำการ Insert Data <mark style="color:red;">คำเตือนจะไม่สามารถ Assign ค่าใน ADMIN\_ID ได้ เนื่องจากจะถูก Generate โดยอัตโนมัติทุกครั้ง รวมถึงค่า NULL ก็ไม่สามารถ Assign ได้</mark>
 
 {% code title="SQL>" %}
 ```
@@ -44,7 +44,7 @@ CREATE TABLE ADMIN (
 ```
 {% endcode %}
 
-* ลองทำการ Insert Data อีกครั้งหนึ่ง คำเตือนจะสามารถ Assign ค่าใน ADMIN\_ID ได้ กรณีที่ไม่ได้กำหนดก็จะถูก Generate โดยอัตโนมัติ แต่ไม่สามารถ Assign ค่า NULL ได้\
+* ลองทำการ Insert Data อีกครั้งหนึ่ง <mark style="color:red;">คำเตือนจะสามารถ Assign ค่าใน ADMIN\_ID ได้ กรณีที่ไม่ได้กำหนดก็จะถูก Generate โดยอัตโนมัติ แต่ไม่สามารถ Assign ค่า NULL ได้</mark>\
 
 
 {% code title="SQL>" %}
@@ -65,7 +65,7 @@ CREATE TABLE ADMIN (
 ```
 {% endcode %}
 
-* ลองทำการ Insert Data อีกครั้งหนึ่ง คำเตือนจะสามารถ Assign ค่าใน ADMIN\_ID ได้ กรณีที่ไม่ได้กำหนดก็จะถูก Generate โดยอัตโนมัติ แต่สามารถ Assign ค่า NULL ได้
+* ลองทำการ Insert Data อีกครั้งหนึ่ง <mark style="color:red;">คำเตือนจะสามารถ Assign ค่าใน ADMIN\_ID ได้ กรณีที่ไม่ได้กำหนดก็จะถูก Generate โดยอัตโนมัติ แต่สามารถ Assign ค่า NULL ได้</mark>
 
 {% code title="SQL>" %}
 ```
