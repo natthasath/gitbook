@@ -8,9 +8,11 @@
 **Cause** : สาเหตุเนื่องมาจาก Archive Log ถูกลบไป ทำให้ไม่สามารถหา Sequence  Number ของ Oracle Database ได้ จะต้องทำการ Restore Archive Log
 {% endhint %}
 
+{% code overflow="wrap" %}
 ```
 2020-07-08 08:54:33  ERROR   OGG-00446  Oracle GoldenGate Capture for Oracle, extorcl.prm:  Could not find archived log for sequence 1839
 ```
+{% endcode %}
 
 ## **Configuration**
 

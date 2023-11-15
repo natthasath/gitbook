@@ -8,13 +8,8 @@
 **Cause** : สาเหตุเนื่องมาจาก Date Format ของ SQL Statement ไม่ตรงกับพารามิเตอร์ National Language Support ( NLS ) บน Oracle ทำให้ไม่สามารถ Run SQL Statement ได้ ซึ่งมีวิธีแก้ 2 วิธี คือ 1. แก้ไขพารามิเตอร์ NLS\_DATE\_LANGUAGE ของ Session 2. แก้ไข SQL Statement ให้ตรงกับ Date Format
 {% endhint %}
 
-{% code title="SQL>" %}
 ```
-select to_date('09 MAR 2020','DD MON RRRR') from dual ;
-```
-{% endcode %}
-
-```
+SQL> select to_date('09 MAR 2020','DD MON RRRR') from dual ;
 ORA-01843: not a valid month
 ```
 
