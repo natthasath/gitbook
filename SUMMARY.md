@@ -27,6 +27,7 @@
   * [📬 Join Domain to Active Directory on Ubuntu 22.04](infrastructure/dns/join-domain-to-active-directory-on-ubuntu-22.04.md)
 * [Network](infrastructure/network/README.md)
   * [🐦 Local Area Network 101](infrastructure/network/local-area-network-101.md)
+  * [🐦 Export and Import Session on SecureCRT](infrastructure/network/export-and-import-session-on-securecrt.md)
 * [Storage](infrastructure/storage/README.md)
 * [Security](infrastructure/security/README.md)
   * [🎩 Scam Mail](infrastructure/security/scam-mail.md)
