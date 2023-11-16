@@ -154,6 +154,7 @@
   * [🍓 Install NOOBS on Rasberry Pi](other/raspberry-pi/install-noobs-on-rasberry-pi.md)
 * [WSL](other/wsl/README.md)
   * [🧿 How to move Distribution Data WSL to new Location](other/wsl/how-to-move-distribution-data-wsl-to-new-location.md)
+* [Blog](other/blog.md)
 
 ## 🧜 MICROSOFT 365
 
