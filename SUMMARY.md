@@ -62,8 +62,9 @@
   * [👿 Fix Ubuntu Package Manager Lock: Could not get lock /var/lib/dpkg/lock](server/linux-server/fix-ubuntu-package-manager-lock-could-not-get-lock-var-lib-dpkg-lock.md)
   * [👿 Install Kali Linux GUI on Windows Subsystem for Linux](server/linux-server/install-kali-linux-gui-on-windows-subsystem-for-linux.md)
   * [👿 How to get DateTime History on Linux](server/linux-server/how-to-get-datetime-history-on-linux.md)
+  * [👿 Change IP and Hostname on Ubuntu 18.04](server/linux-server/change-ip-and-hostname-on-ubuntu-18.04.md)
 * [User](server/user/README.md)
-  * [👽 OSQuery](server/user/osquery.md)
+  * [👽 OSQuery](server/windows-server/osquery.md)
   * [👽 How to decompress GZIP, BZIP and TAR File on Windows 10](server/user/how-to-decompress-gzip-bzip-and-tar-file-on-windows-10.md)
 
 ## 🧑🍼 Software
