@@ -1,4 +1,4 @@
-# 👺 OSQuery
+# 👽 OSQuery
 
 {% hint style="info" %}
 Operating System Instrumentation Framework ( OSQuery ) เป็น Open Source Framework ของทาง Facebook ที่ออกแบบมาสำหรับการ Monitoring & Analytic ในระดับ Low-Level ของ Operating System โดยสามารถดึงข้อมูลในลักษณะของภาษา SQL สามารถใช้งานได้ทั้ง Windows, Linux และ Mac

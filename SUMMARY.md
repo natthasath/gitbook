@@ -57,12 +57,14 @@
   * [👺 How to convert PFX to CRT and KEY File on Windows Server](server/windows-server/how-to-convert-pfx-to-crt-and-key-file-on-windows-server.md)
   * [👺 Check Security Windows Application with Winchecksec](server/windows-server/check-security-windows-application-with-winchecksec.md)
   * [👺 Fix Internet Explorer Block Website on Windows Server 2019](server/windows-server/fix-internet-explorer-block-website-on-windows-server-2019.md)
-  * [👺 OSQuery](server/windows-server/osquery.md)
 * [Linux Server](server/linux-server/README.md)
   * [👿 Fix SSH Error: no matching key exchange method found](server/linux-server/fix-ssh-error-no-matching-key-exchange-method-found.md)
   * [👿 Fix Ubuntu Package Manager Lock: Could not get lock /var/lib/dpkg/lock](server/linux-server/fix-ubuntu-package-manager-lock-could-not-get-lock-var-lib-dpkg-lock.md)
   * [👿 Install Kali Linux GUI on Windows Subsystem for Linux](server/linux-server/install-kali-linux-gui-on-windows-subsystem-for-linux.md)
   * [👿 How to get DateTime History on Linux](server/linux-server/how-to-get-datetime-history-on-linux.md)
+* [User](server/user/README.md)
+  * [👽 OSQuery](server/user/osquery.md)
+  * [👽 How to decompress GZIP, BZIP and TAR File on Windows 10](server/user/how-to-decompress-gzip-bzip-and-tar-file-on-windows-10.md)
 
 ## 🧑🍼 Software
 
