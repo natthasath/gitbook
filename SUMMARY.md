@@ -111,6 +111,7 @@
     * [🚚 CI/CD Tools](programming/tools/other-tools/ci-cd-tools.md)
     * [🚙 Design Tools](programming/tools/other-tools/design-tools.md)
     * [🛻 SEO Tools](programming/tools/other-tools/seo-tools.md)
+    * [🚌 Hands-On Lab Tools](programming/tools/other-tools/hands-on-lab-tools.md)
   * [Package Tools](programming/tools/package-tools/README.md)
     * [🧶 Top NuGet Package .NET Core](programming/tools/package-tools/top-nuget-package-.net-core.md)
   * [Visual Studio Code](programming/tools/visual-studio-code/README.md)
