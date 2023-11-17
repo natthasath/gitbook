@@ -40,6 +40,7 @@
 * [Network](infrastructure/network/README.md)
   * [🐦 Local Area Network 101](infrastructure/network/local-area-network-101.md)
   * [🐦 Export and Import Session on SecureCRT](infrastructure/network/export-and-import-session-on-securecrt.md)
+  * [🐦 VPN Protocol](infrastructure/network/vpn-protocol.md)
 * [Storage](infrastructure/storage/README.md)
 * [Security](infrastructure/security/README.md)
   * [🎩 Scam Mail](infrastructure/security/scam-mail.md)
