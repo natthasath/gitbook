@@ -133,6 +133,7 @@
 
 * [Blog](other/blog/README.md)
   * [🎃 Blog Dell](other/blog/blog-dell.md)
+  * [🎃 Blog Network](other/blog/blog-network.md)
 * [Big Data](other/big-data/README.md)
   * [🐱 Big Data ของกระทรวงสาธารณสุข](other/big-data/big-data.md)
 * [Chat Bot](other/chat-bot/README.md)
