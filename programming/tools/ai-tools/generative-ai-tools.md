@@ -20,6 +20,10 @@
 
 {% embed url="https://finchat.io/chats/" %}
 
+## AB Testing
+
+{% embed url="https://abtesting.ai/" %}
+
 ## Midjourney
 
 {% embed url="https://www.midjourney.com/" %}
