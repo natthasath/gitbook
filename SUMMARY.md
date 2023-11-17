@@ -24,6 +24,7 @@
   * [🫒 Create Auto Increment on Oracle](database/oracle-database/create-auto-increment-on-oracle.md)
   * [🥦 Recompile Object Invalid on Oracle](database/oracle-database/recompile-object-invalid-on-oracle.md)
   * [🥬 Create Database Link on Oracle](database/oracle-database/create-database-link-on-oracle.md)
+  * [🫑 Cluster vs Grid](database/oracle-database/cluster-vs-grid.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
 * [Microsoft SQL Server](database/microsoft-sql-server.md)
