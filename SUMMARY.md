@@ -38,6 +38,7 @@
 * [DNS](infrastructure/dns/README.md)
   * [📬 Fix Ldap Error Search Configuration Naming Context failed](infrastructure/dns/fix-ldap-error-search-configuration-naming-context-failed.md)
   * [📬 Join Domain to Active Directory on Ubuntu 22.04](infrastructure/dns/join-domain-to-active-directory-on-ubuntu-22.04.md)
+  * [📬 Sender Policy Framework Record](infrastructure/dns/sender-policy-framework-record.md)
 * [Network](infrastructure/network/README.md)
   * [🐦 Local Area Network 101](infrastructure/network/local-area-network-101.md)
   * [🐦 Export and Import Session on SecureCRT](infrastructure/network/export-and-import-session-on-securecrt.md)
