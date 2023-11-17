@@ -4,7 +4,7 @@
 หากใครเคยทำพวก Distribution Computing ในการประมวลผลข้อมูลแบบกระจาย ที่พัฒนามาจากการประมวลผลข้อมูลแบบรวมศูนย์ Centralize Computing คงจะเคยได้ยิน Cluster และ Grid ซึ่งเป็นการทำ Distribution Computing เหมือนกัน แต่การใช้งานไม่เหมือนกัน
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/_59a0f326-8d28-4dc6-9439-688667b318f4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/_59a0f326-8d28-4dc6-9439-688667b318f4.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## **Cluster Computing**
 
