@@ -22,6 +22,7 @@
   * [🍆 Fix Oracle Service handle not Initialized](database/oracle-database/fix-oracle-service-handle-not-initialized.md)
   * [🥑 GoldenGate Credential Store](database/oracle-database/goldengate-credential-store.md)
   * [🫒 Create Auto Increment on Oracle](database/oracle-database/create-auto-increment-on-oracle.md)
+  * [🥦 Recompile Object Invalid on Oracle](database/oracle-database/recompile-object-invalid-on-oracle.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
 * [Microsoft SQL Server](database/microsoft-sql-server.md)
