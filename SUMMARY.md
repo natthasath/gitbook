@@ -166,6 +166,7 @@
 * [WSL](other/wsl/README.md)
   * [🧿 How to move Distribution Data WSL to new Location](other/wsl/how-to-move-distribution-data-wsl-to-new-location.md)
   * [🧿 Export and Import Distro on Windows Subsystem for Linux](other/wsl/export-and-import-distro-on-windows-subsystem-for-linux.md)
+  * [🧿 Install Docker on Windows Subsystem for Linux](other/wsl/install-docker-on-windows-subsystem-for-linux.md)
 
 ## 🧜 MICROSOFT 365
 
