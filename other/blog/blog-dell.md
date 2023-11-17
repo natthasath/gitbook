@@ -1,5 +1,23 @@
-# Blog Dell
+# 🎃 Blog Dell
 
-**Coming Soon**มกราคม 4, 2019
+## Official
 
-The big day is here.
+{% embed url="https://my.vmware.com/group/vmware/patch#search" %}
+
+{% embed url="https://storagehub.vmware.com/" %}
+
+## Thai
+
+{% embed url="https://vmware-nsx.blogspot.com/" %}
+
+{% embed url="https://www.hyperconverged.in.th/" %}
+
+## English
+
+{% embed url="https://cormachogan.com/" %}
+
+{% embed url="https://deangrant.wordpress.com/" %}
+
+{% embed url="https://www.vladan.fr/" %}
+
+{% embed url="http://www.yellow-bricks.com/" %}

@@ -131,6 +131,8 @@
 
 ## 👨🍼 Other
 
+* [Blog](other/blog/README.md)
+  * [🎃 Blog Dell](other/blog/blog-dell.md)
 * [Big Data](other/big-data/README.md)
   * [🐱 Big Data ของกระทรวงสาธารณสุข](other/big-data/big-data.md)
 * [Chat Bot](other/chat-bot/README.md)
@@ -160,8 +162,6 @@
 * [WSL](other/wsl/README.md)
   * [🧿 How to move Distribution Data WSL to new Location](other/wsl/how-to-move-distribution-data-wsl-to-new-location.md)
   * [🧿 Export and Import Distro on Windows Subsystem for Linux](other/wsl/export-and-import-distro-on-windows-subsystem-for-linux.md)
-* [Blog](other/blog/README.md)
-  * [Blog Dell](other/blog/blog-dell.md)
 
 ## 🧜 MICROSOFT 365
 
