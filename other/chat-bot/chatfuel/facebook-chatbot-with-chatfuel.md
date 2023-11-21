@@ -8,38 +8,38 @@ Chatfuel สามารถทำ Chatbot ได้อย่างยืดห�
 
 * เข้าไปที่ [https://chatfuel.com/](https://chatfuel.com/) แล้วคลิก Continue with Facebook
 
-![](https://codeinsane.files.wordpress.com/2021/03/chatfuel-01.png)
+![](../../../.gitbook/assets/chatfuel-01.png)
 
 * คลิก Add blank bot
 
-![](https://codeinsane.files.wordpress.com/2021/03/chatfuel-02.png)
+![](../../../.gitbook/assets/chatfuel-02.png)
 
 * คลิก Connect to Page
 
-![](https://codeinsane.files.wordpress.com/2021/03/chatfuel-03.jpg)
+![](../../../.gitbook/assets/chatfuel-03.jpg)
 
 * คลิก Flows
 
-![](https://codeinsane.files.wordpress.com/2021/03/chatfuel-04.jpg)
+![](../../../.gitbook/assets/chatfuel-04.jpg)
 
 * คลิก Answer FAQs ( Basic )
 
-![](https://codeinsane.files.wordpress.com/2021/03/chatfuel-05.jpg)
+![](../../../.gitbook/assets/chatfuel-05.jpg)
 
 * คลิก Use this template
 
-![](https://codeinsane.files.wordpress.com/2021/03/chatfuel-06.jpg)
+![](../../../.gitbook/assets/chatfuel-06.jpg)
 
 * จะได้ Flows ให้ทำการใส่ข้อมูลใน Card ที่ยังใส่ข้อมูลไม่ครบ จะเป็นกล่องสีแดง ๆ
 
-![](https://codeinsane.files.wordpress.com/2021/03/chatfuel-07.jpg)
+![](../../../.gitbook/assets/chatfuel-07.jpg)
 
 * ทำการ Enable Active แล้วคลิก Test this Flow
 
-![](https://codeinsane.files.wordpress.com/2021/03/chatfuel-08.jpg)
+![](../../../.gitbook/assets/chatfuel-08.jpg)
 
 * จะแสดง Chatbot คำเตือนเราสามารถแก้ไขข้อความใน Welcome Message และ Default Message ก่อนที่จะเข้าใช้งาน Flow ได้ในเมนู Automate
 
-![](https://codeinsane.files.wordpress.com/2021/03/chatfuel-09-1.png)
+![](../../../.gitbook/assets/chatfuel-09.png)
 
 **อ่านเพิ่มเติม** : [http://bit.ly/3eair2T](http://bit.ly/3eair2T)
