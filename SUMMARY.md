@@ -28,6 +28,7 @@
   * [🥒 Install DBSAT for Oracle Database 11gR2](database/oracle-database/install-dbsat-for-oracle-database-11gr2.md)
   * [🌶 Fix Oracle End-of-File on Communication Channel](database/oracle-database/fix-oracle-end-of-file-on-communication-channel.md)
   * [🌽 Fix Oracle Database Out of Memory](database/oracle-database/fix-oracle-database-out-of-memory.md)
+  * [🥕 Export and Import Oracle Database with Data Pump](database/oracle-database/export-and-import-oracle-database-with-data-pump.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
 * [Microsoft SQL Server](database/microsoft-sql-server.md)
