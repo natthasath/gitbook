@@ -26,6 +26,7 @@
   * [🥬 Create Database Link on Oracle](database/oracle-database/create-database-link-on-oracle.md)
   * [🫑 Cluster vs Grid](database/oracle-database/cluster-vs-grid.md)
   * [🥒 Install DBSAT for Oracle Database 11gR2](database/oracle-database/install-dbsat-for-oracle-database-11gr2.md)
+  * [🌶 Fix Oracle End-of-File on Communication Channel](database/oracle-database/fix-oracle-end-of-file-on-communication-channel.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
 * [Microsoft SQL Server](database/microsoft-sql-server.md)
