@@ -14,26 +14,28 @@ const admin = require('firebase-admin');
 
 * ทำการ Connect Firebase แบบ Single Database
 
-<pre><code>admin.initializeApp({
+```
+admin.initializeApp({
   credential: admin.credential.applicationDefault(),
-<strong>  databaseURL: 'ws://abc-def.firebaseio.com/'
-</strong>});
+  databaseURL: 'ws://abc-def.firebaseio.com/'
+});
 
 var db = admin.database();
 var ref = db.ref("restricted_access/secret_document");
 ref.once("value", function(snapshot) {
   console.log(snapshot.val());
 });
-</code></pre>
+```
 
 * ทำการ Connect Firebase แบบ Multiple Database
 
-<pre><code>const app = admin.initializeApp({
+```
+const app = admin.initializeApp({
   credential: admin.credential.applicationDefault(),
 });
 
-<strong>const db1 = app.database('ws://abc-def.firebaseio.com/');
-</strong><strong>const db2 = app.database('ws://abc-def-ghi.firebaseio.com/');
-</strong></code></pre>
+const db1 = app.database('ws://abc-def.firebaseio.com/');
+const db2 = app.database('ws://abc-def-ghi.firebaseio.com/');
+```
 
 **อ่านเพิ่มเติม** : [http://bit.ly/3jYO1BA](http://bit.ly/3jYO1BA)
