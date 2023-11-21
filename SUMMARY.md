@@ -163,6 +163,7 @@
   * [🧤 PC SPEC for Deep Learning 2021](other/machine-learning/pc-spec-for-deep-learning-2021.md)
   * [🧤 Install YOLO Object Detection on Windows 10](other/machine-learning/install-yolo-object-detection-on-windows-10.md)
   * [🧤 Thai Natural Language Processing with Python](other/machine-learning/thai-natural-language-processing-with-python.md)
+  * [🧤 Install Tensorflow with GPU on Windows 10](other/machine-learning/install-tensorflow-with-gpu-on-windows-10.md)
 * [Standard](other/standard/README.md)
   * [🧬 Digital ID](other/standard/digital-id.md)
   * [💻 Computer Naming Convention](other/standard/computer-naming-convention.md)
