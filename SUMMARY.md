@@ -109,6 +109,7 @@
   * [🟣 Microsoft Universal Data Access](programming/fundamental/microsoft-universal-data-access.md)
   * [🟡 Flow Graph Aptitude Test](programming/fundamental/flow-graph-aptitude-test.md)
   * [🟠 C Pyramid – Part I](programming/fundamental/c-pyramid-part-i.md)
+  * [🟤 Part II](programming/fundamental/part-ii.md)
 * [Tools](programming/tools/README.md)
   * [AI Tools](programming/tools/ai-tools/README.md)
     * [🚗 Generative AI Tools](programming/tools/ai-tools/generative-ai-tools.md)
