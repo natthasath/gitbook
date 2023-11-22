@@ -18,15 +18,15 @@
 
 * ทำการ Format Micro SD Card โดยเลือก File System เป็น FAT32
 
-![Raspbian-01](https://codeinsane.files.wordpress.com/2019/04/raspbian-01.png?w=636)
+![Raspbian-01](../../.gitbook/assets/raspbian-01.png)
 
 * เปิดโปรแกรม Win32DiskImager แล้วทำการ Mount ไฟล์ NOOBS Image เลือก Device แล้วคลิก Write
 
-![Raspbian-02](https://codeinsane.files.wordpress.com/2019/04/raspbian-02.png?w=636)
+![Raspbian-02](../../.gitbook/assets/raspbian-02.png)
 
 * คลิก Yes
 
-![Raspbian-03](https://codeinsane.files.wordpress.com/2019/04/raspbian-03.png?w=636)
+![Raspbian-03](../../.gitbook/assets/raspbian-03.png)
 
 * นำ Micro SD Card ไปใส่ใน Raspberry Pi แล้วทำการกรอก Username และ Password
 
@@ -37,6 +37,6 @@ Password: raspberry
 
 * จะแสดง Raspbian OS GUI
 
-![](https://codeinsane.files.wordpress.com/2019/09/raspberry-20.png?w=636\&h=477)
+![](../../.gitbook/assets/raspberry-20.png)
 
 **อ่านเพิ่มเติม** : [https://bit.ly/36Ffa7c](https://bit.ly/36Ffa7c)
