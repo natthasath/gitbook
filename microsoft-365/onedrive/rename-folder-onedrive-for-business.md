@@ -8,7 +8,7 @@
 ผมจะขอยกตัวอย่าง กรณีที่เรามีหลาย Account อย่างผม ซึ่งเป็นทั้งพนักงานและนักศึกษาในสถาบันการศึกษา ก็จะมี 2 Account ซึ่งถ้าทำการ Login ผ่าน OneDrive for PC จะเห็นชื่อโฟลเดอร์ เป็นดังนี้
 {% endhint %}
 
-![](https://codeinsane.files.wordpress.com/2021/03/onedrive-01.png?w=636\&h=358)
+![](../../.gitbook/assets/onedrive-01.png)
 
 {% hint style="warning" %}
 ใน Registry จะเห็นเป็น Business1 ( STU ) และ Business2 ( NIDA )
@@ -18,15 +18,15 @@
 
 * ทำการ Pause Sync OneDrive
 
-![](https://codeinsane.files.wordpress.com/2021/03/rename-01.png?w=636)
+![](../../.gitbook/assets/rename-01.png)
 
 * ทำการ Rename OneDrive Folder
 
-![](https://codeinsane.files.wordpress.com/2021/03/rename-02.png?w=636\&h=358)
+![](../../.gitbook/assets/rename-02.png)
 
 * กดปุ่ม Win + R แล้วพิมพ์ regedit
 
-![](https://codeinsane.files.wordpress.com/2021/03/rename-03.png?w=636\&h=335)
+![](../../.gitbook/assets/rename-03.png)
 
 * ทำการแก้ไข Path ใน HKEY\_CURRENT\_USER ( HKCU )
 
@@ -66,10 +66,10 @@ HKCM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\SyncRootManager\ID\UserS
 
 * ทำการ Resume Sync OneDrive
 
-![](https://codeinsane.files.wordpress.com/2021/03/rename-04.png?w=636)
+![](../../.gitbook/assets/rename-04.png)
 
 * จะแสดง Folder ที่เราสามารแยกได้แล้วว่าเป็นของ Account ไหน
 
-![](https://codeinsane.files.wordpress.com/2021/03/rename-05.png?w=636\&h=358)
+![](../../.gitbook/assets/rename-05.png)
 
 **อ่านเพิ่มเติม** : [http://bit.ly/3kVkDfZ](http://bit.ly/3kVkDfZ)
