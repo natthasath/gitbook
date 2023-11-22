@@ -6,7 +6,7 @@
 
 ## ☑️ [SPEC Builder](https://notebookspec.com/pc/8486158)
 
-![](https://codeinsane.files.wordpress.com/2021/03/spec-02.png?w=636\&h=496)
+![](../../.gitbook/assets/spec-02.png)
 
 ## **✅ Requirement**
 
