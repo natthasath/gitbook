@@ -12,19 +12,19 @@
 
 * เข้าไปที่หน้าเว็บ [https://protection.office.com](https://protection.office.com/)
 
-<figure><img src="https://codeinsane.files.wordpress.com/2020/12/mailbox-01.png?w=1024" alt="" height="515" width="1024"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mailbox-01.png" alt=""><figcaption></figcaption></figure>
 
 * เลือก Permissions -> eDiscovery Manager แล้วคลิก Edit role group
 
-<figure><img src="https://codeinsane.files.wordpress.com/2020/12/mailbox-02.png?w=1024" alt="" height="515" width="1024"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mailbox-02.png" alt=""><figcaption></figcaption></figure>
 
 * คลิก Choose eDiscovery Manager
 
-<figure><img src="https://codeinsane.files.wordpress.com/2020/12/mailbox-03.png?w=1024" alt="" height="515" width="1024"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mailbox-03.png" alt=""><figcaption></figcaption></figure>
 
 * คลิก Add แล้วคลิก Done
 
-<figure><img src="https://codeinsane.files.wordpress.com/2020/12/mailbox-04.png?w=1024" alt="" height="515" width="1024"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mailbox-04.png" alt=""><figcaption></figcaption></figure>
 
 * ทำการเพิ่ม Global Variable ขึ้นในไฟล์ Configuration.ps1
 
