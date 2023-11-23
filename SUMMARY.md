@@ -107,6 +107,7 @@
   * [🌠 Fix Alert Hyperthreading Unmitigated on VMware ESXi 6.7](software/vmware/fix-alert-hyperthreading-unmitigated-on-vmware-esxi-6.7.md)
   * [🌠 Fix VMware Error Client Session is no Longer Authenticated](software/vmware/fix-vmware-error-client-session-is-no-longer-authenticated.md)
   * [🌠 Merge AVHDX and VHDX for Convert to VMDK](software/vmware/merge-avhdx-and-vhdx-for-convert-to-vmdk.md)
+  * [🌠 Convert VMDK to VHDX with Microsoft Virtual Machine Converter](software/vmware/convert-vmdk-to-vhdx-with-microsoft-virtual-machine-converter.md)
 * [Veeam Backup](software/veeam-backup/README.md)
   * [🧊 Install Veeam Backup & Replication 11 on Windows](software/veeam-backup/install-veeam-backup-and-replication-11-on-windows.md)
   * [🧊 Backup Planning Matrix](software/veeam-backup/backup-planning-matrix.md)
