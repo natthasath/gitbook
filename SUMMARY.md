@@ -32,6 +32,7 @@
   * [🥒 Monitor Log Switch each Hour of Day on Oracle with SQL\*Plus](database/oracle-database/monitor-log-switch-each-hour-of-day-on-oracle-with-sql-plus.md)
   * [🌶 Change Column Format on Oracle with SQL\*Plus](database/oracle-database/change-column-format-on-oracle-with-sql-plus.md)
   * [🌽 Check Version Component on Oracle with SQL\*Plus](database/oracle-database/check-version-component-on-oracle-with-sql-plus.md)
+  * [🥕 Check Database Size on Oracle with SQL\*Plus](database/oracle-database/check-database-size-on-oracle-with-sql-plus.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
 * [Microsoft SQL Server](database/microsoft-sql-server.md)
