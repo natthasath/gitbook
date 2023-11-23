@@ -34,6 +34,7 @@
   * [🌽 Check Version Component on Oracle with SQL\*Plus](database/oracle-database/check-version-component-on-oracle-with-sql-plus.md)
   * [🥕 Check Database Size on Oracle with SQL\*Plus](database/oracle-database/check-database-size-on-oracle-with-sql-plus.md)
   * [🧄 Migrate Oracle Database with RMAN](database/oracle-database/migrate-oracle-database-with-rman.md)
+  * [🧅 Fix Enterprise Manager Error OC4J Configuration issue](database/oracle-database/fix-enterprise-manager-error-oc4j-configuration-issue.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
 * [Microsoft SQL Server](database/microsoft-sql-server.md)
