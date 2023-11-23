@@ -14,7 +14,7 @@ set pagesize number
 ```
 {% endcode %}
 
-```markup
+```
 Component                           Version         Status
 ----------------------------------- --------------- ----------
 Oracle Enterprise Manager           11.2.0.2.0      VALID
