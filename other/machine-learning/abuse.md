@@ -1,0 +1,8 @@
+# Abuse
+
+We strongly believe in freedom of speech. The WordPress.com community is spread across many cultures, countries, and backgrounds with varying values, and our service is designed to let people publish ideas and opinions without us censoring or endorsing them. But if you find a site on WordPress.com that you feel violates our [User Guidelines](https://wordpress.com/support/user-guidelines/) or [Terms of Service](https://wordpress.com/tos/), please let us know.
+
+> I would like to report…\
+> [“https://codeinsane.wordpress.com/2019/07/22/cuda-z/”](broken-reference)
+
+[Abusive content, harassment, and defamation.](https://wordpress.com/abuse?report\_type=abuse\&report\_url=https%3A%2F%2Fcodeinsane.wordpress.com%2F2019%2F07%2F22%2Fcuda-z%2F)[PrivacyConcerns about my private information.](https://wordpress.com/abuse?report\_type=privacy\&report\_url=https%3A%2F%2Fcodeinsane.wordpress.com%2F2019%2F07%2F22%2Fcuda-z%2F)[Person at RiskA person at imminent risk of death or severe physical harm.](https://wordpress.com/abuse?report\_type=at-risk\&report\_url=https%3A%2F%2Fcodeinsane.wordpress.com%2F2019%2F07%2F22%2Fcuda-z%2F)[Regulated MaterialThe sale of prohibited or highly regulated items. Gambling and explicit material.](https://wordpress.com/abuse?report\_type=regulation\&report\_url=https%3A%2F%2Fcodeinsane.wordpress.com%2F2019%2F07%2F22%2Fcuda-z%2F)[Technological HarmMalware, spyware, adware etc. Phishing. Spam or machine-generated content.](https://wordpress.com/abuse?report\_type=technology\&report\_url=https%3A%2F%2Fcodeinsane.wordpress.com%2F2019%2F07%2F22%2Fcuda-z%2F)[LegalCopyright and Trademark infringement.](https://wordpress.com/abuse?report\_type=legal\&report\_url=https%3A%2F%2Fcodeinsane.wordpress.com%2F2019%2F07%2F22%2Fcuda-z%2F)

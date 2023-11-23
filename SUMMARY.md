@@ -185,6 +185,8 @@
   * [🧤 Install Tensorflow with GPU on Windows 10](other/machine-learning/install-tensorflow-with-gpu-on-windows-10.md)
   * [🧤 PC SPEC for Deep Learning 2019](other/machine-learning/pc-spec-for-deep-learning-2019.md)
   * [🧤 Speech to Text with Google API](other/machine-learning/speech-to-text-with-google-api.md)
+  * [🧤 CUDA-Z](other/machine-learning/cuda-z.md)
+  * [Abuse](other/machine-learning/abuse.md)
 * [Standard](other/standard/README.md)
   * [🧬 Digital ID](other/standard/digital-id.md)
   * [💻 Computer Naming Convention](other/standard/computer-naming-convention.md)
