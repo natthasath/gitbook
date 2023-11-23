@@ -150,6 +150,7 @@
 ## 👨🍼 Other
 
 * [Blog](other/blog/README.md)
+  * [Blog Gitbook](other/blog/blog-gitbook.md)
   * [🎃 Blog Dell](other/blog/blog-dell.md)
   * [🎃 Blog Network](other/blog/blog-network.md)
 * [Big Data](other/big-data/README.md)
