@@ -1,4 +1,4 @@
-# 🌽 Fix Oracle Database Out of Memory
+# 🥬 Fix Oracle Database Out of Memory
 
 {% hint style="info" %}
 ในกรณีที่เราทำการ Create Instance บน Oracle Database แล้วไม่สามารถทำการ Start Database ได้ เนื่องจาก Memory เต็ม ทำให้ไม่สามารถทำการ Allocate Memory สำหรับ SGA เพื่อใช้ในการ Start Database ได้ ซึ่งค่า Parameter ของ Oracle Database อย่าง Memory Target และ Memory Max Target ไม่ควรจะใหญ่กว่า Shared Memory File System ( /dev/shm )

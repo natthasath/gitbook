@@ -73,6 +73,7 @@
   * [👺 How to convert PFX to CRT and KEY File on Windows Server](server/windows-server/how-to-convert-pfx-to-crt-and-key-file-on-windows-server.md)
   * [👺 Check Security Windows Application with Winchecksec](server/windows-server/check-security-windows-application-with-winchecksec.md)
   * [👺 Fix Internet Explorer Block Website on Windows Server 2019](server/windows-server/fix-internet-explorer-block-website-on-windows-server-2019.md)
+  * [👺 Install Windows Admin Center on Windows Server 2019](server/windows-server/install-windows-admin-center-on-windows-server-2019.md)
 * [Linux Server](server/linux-server/README.md)
   * [👿 Fix SSH Error: no matching key exchange method found](server/linux-server/fix-ssh-error-no-matching-key-exchange-method-found.md)
   * [👿 Fix Ubuntu Package Manager Lock: Could not get lock /var/lib/dpkg/lock](server/linux-server/fix-ubuntu-package-manager-lock-could-not-get-lock-var-lib-dpkg-lock.md)

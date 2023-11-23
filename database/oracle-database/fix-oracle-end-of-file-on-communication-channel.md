@@ -1,4 +1,4 @@
-# 🌶 Fix Oracle End-of-File on Communication Channel
+# 🥦 Fix Oracle End-of-File on Communication Channel
 
 {% hint style="info" %}
 ในกรณีที่เราทำการ Start Database บน Oracle Database แล้วไม่สามารถทำการ Start Database ได้ เนื่องจาก Archive Log เต็ม ทำให้ไม่สามารถทำการสำรองข้อมูล Archive Log ได้ ส่งผลให้ไม่สามารถทำการ Start Database และ Shutdown Database ได้ แต่สามารถทำการสั่ง Shutdown Abort ได้

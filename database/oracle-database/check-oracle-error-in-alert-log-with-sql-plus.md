@@ -1,4 +1,4 @@
-# 🍇 Check Oracle Error in Alert Log with SQL\*Plus
+# 🍐 Check Oracle Error in Alert Log with SQL\*Plus
 
 {% hint style="info" %}
 การตรวจสอบ Error ของ Database บน Oracle โดยปกติเราสามารถตรวจสอบ Error ที่พบได้จาก Automatic Diagnostic Repository ( ADR ) แต่จะไม่สะดวกในการเรียกดู Error ย้อนหลัง

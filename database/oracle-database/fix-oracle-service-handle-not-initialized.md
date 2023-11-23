@@ -1,4 +1,4 @@
-# 🍆 Fix Oracle Service handle not Initialized
+# 🍍 Fix Oracle Service handle not Initialized
 
 {% hint style="info" %}
 ในกรณีที่เราทำการ Query Data บน Oracle Database แล้วไม่สามารถทำการ Query ได้ เนื่องจาก Service Name ทำการ Connect Database ผิด ทำให้เกิด Service Handle not Initialized ส่งผลให้ไม่สามารถทำการ Query Data รวมถึงการ Start Database และ Shutdown Database ได้

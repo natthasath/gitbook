@@ -1,4 +1,4 @@
-# 🍍 Fix Password File Missing on Oracle
+# 🍇 Fix Password File Missing on Oracle
 
 {% hint style="info" %}
 ในกรณีที่เราทำการ Remote Login บน Oracle ด้วย Privilege DBA มันจะทำการ Authentication กับ Password File ซึ่งถ้าหากหายไป จะทำให้ไม่สามารทำการ Remote Login หรือแม้กระทั่ง Grant Privilege DBA ให้กับ User ได้ จะต้องทำการ Create ใหม่

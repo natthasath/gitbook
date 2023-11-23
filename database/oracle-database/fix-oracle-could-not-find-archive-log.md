@@ -1,4 +1,4 @@
-# 🍅 Fix Oracle could not find Archive Log
+# 🍈 Fix Oracle could not find Archive Log
 
 {% hint style="info" %}
 ในกรณีที่เราทำการ Check Process Golden Gate บน Oracle Database แล้วเกิด ABEND ซึ่งอาจเกิดจากหลายสาเหตุ หนึ่งในนั้นคือ Archive Log ถูกลบ ทำให้ไม่สามารถหา Sequence  Number ของ Oracle Database ได้ ส่งผลให้ Process ของ Golden Gate เกิด ABEND

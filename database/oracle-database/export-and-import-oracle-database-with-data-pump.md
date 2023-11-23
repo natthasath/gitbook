@@ -1,4 +1,4 @@
-# 🥕 Export and Import Oracle Database with Data Pump
+# 🫑 Export and Import Oracle Database with Data Pump
 
 {% hint style="info" %}
 Data Pump เป็น Utility ของ Oracle Database ที่ใช้ในการ Backup, Restore & Recovery เหมือน RMAN ในลักษณะของ Logical Backup ที่ใช้งานง่ายกว่า และไม่ต้องทำการ Enable Archive Log Mode เหมาะในกรณีที่ไม่สามารถ Shutdown Database เพื่อทำการ Enable Archive Log Mode ได้ แต่ทำงานช้ากว่ามาก และต้องทำการ Create Database ขึ้นมาก่อน

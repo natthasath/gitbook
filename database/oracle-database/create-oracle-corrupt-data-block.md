@@ -1,4 +1,4 @@
-# 🍏 Create Oracle Corrupt Data Block
+# 🍊 Create Oracle Corrupt Data Block
 
 {% hint style="info" %}
 ในกรณีที่เกิด Corrupt Data Block บน Oracle เราสามารถทำการ Recovery Data File ได้ จากไฟล์ Backup ของ RMAN ซึ่งเราจะมาจำลองการเกิด Corrupt Data Block ขึ้น ด้วยการ Change Seek ผ่านทาง dd command บน Linux&#x20;

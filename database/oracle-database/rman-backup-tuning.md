@@ -1,4 +1,4 @@
-# 🍌 RMAN Backup Tuning
+# 🍋 RMAN Backup Tuning
 
 {% hint style="info" %}
 การ Tuning Parameter บน Recovery Manager ( RMAN ) จะเป็นการปรับแต่งพารามิเตอร์ที่ใช่ในการ Backup, Restore & Recovery โดย Default จะถูก Disable ไว้ ซึ่งเราสามารทำการ Enable ขึ้นมาใช้งาน รวมถึงการปรับแต่ง Device Type ทั้ง Disk ( Default ) และ SBT ( System Backup to Tape )

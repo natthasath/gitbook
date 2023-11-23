@@ -1,4 +1,4 @@
-# 🥒 Install DBSAT for Oracle Database 11gR2
+# 🫒 Install DBSAT for Oracle Database 11gR2
 
 {% hint style="info" %}
 Database Security Assessment Tool ( DBSAT ) เป็น Utility ของ Oracle Database ที่ใช้ในการตรวจสอบความปลอดภัยของฐานข้อมูล Database Security และช่วยในการระบุข้อมูลที่สำคัญ Sensitive Data ในฐานข้อมูล ไม่ว่าจะเป็น Database Version, Security Feature, Patch รวมถึงการทำ Oracle Account Assessment

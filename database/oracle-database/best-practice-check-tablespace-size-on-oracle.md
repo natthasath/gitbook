@@ -1,4 +1,4 @@
-# 🫐 Best Practice Check Tablespace Size on Oracle
+# 🍉 Best Practice Check Tablespace Size on Oracle
 
 {% hint style="info" %}
 โดยปกติการตรวจสอบ Tablespace Size บน DBA\_TABLESPACE\_USAGE\_METRICS จะรวมพื้นที่ Block ของการ Auto Extend เข้าไปด้วย ซึ่งจะไม่ตรงกับ Size ที่ใช้อยู่ในปัจจุบัน ซึ่งจะต้องตรวจสอบ Tablespace Size บน DBA\_DATA\_FILES จะเหมาะกับ Auto Extend มากกว่า
