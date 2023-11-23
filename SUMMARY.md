@@ -33,6 +33,7 @@
   * [🌶 Change Column Format on Oracle with SQL\*Plus](database/oracle-database/change-column-format-on-oracle-with-sql-plus.md)
   * [🌽 Check Version Component on Oracle with SQL\*Plus](database/oracle-database/check-version-component-on-oracle-with-sql-plus.md)
   * [🥕 Check Database Size on Oracle with SQL\*Plus](database/oracle-database/check-database-size-on-oracle-with-sql-plus.md)
+  * [🧄 Migrate Oracle Database with RMAN](database/oracle-database/migrate-oracle-database-with-rman.md)
 * [PostgreSQL](database/postgresql.md)
 * [MongoDB](database/mongodb.md)
 * [Microsoft SQL Server](database/microsoft-sql-server.md)
