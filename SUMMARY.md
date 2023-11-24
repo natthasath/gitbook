@@ -52,9 +52,9 @@
   * [📬 Migrate User on Active Directory to Another Domain](infrastructure/dns/migrate-user-on-active-directory-to-another-domain.md)
   * [📬 Fix can’t Delete Object on Active Directory](infrastructure/dns/fix-cant-delete-object-on-active-directory.md)
 * [Network](infrastructure/network/README.md)
-  * [🐦 Local Area Network 101](infrastructure/network/local-area-network-101.md)
-  * [🐦 Export and Import Session on SecureCRT](infrastructure/network/export-and-import-session-on-securecrt.md)
-  * [🐦 VPN Protocol](infrastructure/network/vpn-protocol.md)
+  * [👥 Local Area Network 101](infrastructure/network/local-area-network-101.md)
+  * [👥 Export and Import Session on SecureCRT](infrastructure/network/export-and-import-session-on-securecrt.md)
+  * [👥 VPN Protocol](infrastructure/network/vpn-protocol.md)
 * [Storage](infrastructure/storage/README.md)
 * [Security](infrastructure/security/README.md)
   * [🎩 Scam Mail](infrastructure/security/scam-mail.md)
@@ -96,9 +96,6 @@
 * [CMS](software/cms/README.md)
   * [🌺 Fix Joomla Error Call to a member function](software/cms/fix-joomla-error-call-to-a-member-function.md)
   * [🌺 Fix Mixed Content: The page was loaded over HTTPS](software/cms/fix-mixed-content-the-page-was-loaded-over-https.md)
-* [ISPConfig](software/ispconfig/README.md)
-  * [🌏 How to use Web Application Firewall (WAF) with ModSecurity](software/ispconfig/how-to-use-web-application-firewall-waf-with-modsecurity.md)
-  * [🌏 How to use Web Application Firewall (WAF) with Waf2Py](software/ispconfig/how-to-use-web-application-firewall-waf-with-waf2py.md)
 * [VMware](software/vmware/README.md)
   * [🌠 Fix Deploy OVA Error no Support Hardware Versions on VMware ESXi 6.7](software/vmware/fix-deploy-ova-error-no-support-hardware-versions-on-vmware-esxi-6.7.md)
   * [🌠 VMware Workstation and VMware ESXi Compatible](software/vmware/vmware-workstation-and-vmware-esxi-compatible.md)
@@ -114,6 +111,9 @@
   * [🧊 Backup Planning Matrix](software/veeam-backup/backup-planning-matrix.md)
 * [ESET](software/eset/README.md)
   * [🐕🦺 Fix can’t Uninstall ESET Management Agent](software/eset/fix-cant-uninstall-eset-management-agent.md)
+* [ISPConfig](software/ispconfig/README.md)
+  * [🌏 How to use Web Application Firewall (WAF) with ModSecurity](software/ispconfig/how-to-use-web-application-firewall-waf-with-modsecurity.md)
+  * [🌏 How to use Web Application Firewall (WAF) with Waf2Py](software/ispconfig/how-to-use-web-application-firewall-waf-with-waf2py.md)
 
 ## 👩🍼 Programming
 
@@ -202,7 +202,7 @@
   * [🧿 Export and Import Distro on Windows Subsystem for Linux](other/wsl/export-and-import-distro-on-windows-subsystem-for-linux.md)
   * [🧿 Install Docker on Windows Subsystem for Linux](other/wsl/install-docker-on-windows-subsystem-for-linux.md)
 
-## 🧜 MICROSOFT 365
+## 🧙♂ MICROSOFT 365
 
 * [OneDrive](microsoft-365/onedrive/README.md)
   * [📂 Rename Folder OneDrive for Business](microsoft-365/onedrive/rename-folder-onedrive-for-business.md)
@@ -223,7 +223,7 @@
 * [Admin](microsoft-365/admin/README.md)
   * [😱 Redo Provisioning Microsoft Office 365](microsoft-365/admin/redo-provisioning-microsoft-office-365.md)
 
-## 🧜♀ Web Server
+## 🧛♂ Web Server
 
 * [Apache](web-server/apache.md)
 * [IIS](web-server/iis/README.md)
