@@ -1,4 +1,4 @@
-# 📬 Fix can’t Delete Object on Active Directory
+# 📦 Fix can’t Delete Object on Active Directory
 
 {% hint style="info" %}
 ในกรณีที่เราทำการ Delete Object บน Active Directory จะไม่สามารถทำการลบได้ เนื่องจากบน Active Directory จะมีการป้องกันการ Delete Object เป็นค่า Default ของด่านแรก ส่วนด่านที่ 2 ต้องไปเปิด Recycle Bin ซึ่งเป็น Feature ที่มากับ Windows Server 2012 R2

@@ -1,4 +1,4 @@
-# 📬 Fix Ldap Error Search Configuration Naming Context failed
+# 📦 Fix Ldap Error Search Configuration Naming Context failed
 
 {% hint style="info" %}
 ในกรณีที่เราทำการกำหนดค่า Max Page Size บน Ldap แล้วเกิด Error ในการ Search Configuration Naming Context failed ทำให้ไม่สามารถกำหนดค่า Max Page Size บน Ldap ได้

@@ -1,4 +1,4 @@
-# 📬 Join Domain to Active Directory on Ubuntu 22.04
+# 📦 Join Domain to Active Directory on Ubuntu 22.04
 
 {% hint style="info" %}
 หลายคนคงเคย Join Domain กับ Active Directory บน Windows กันมาบ้างแล้ว แต่เราจะมาลอง Join Domain กับ Active Directory บน Ubuntu กันบ้าง ซึ่งหลักการก็จะคล้าย ๆ กับการ Join Domain บน Windows ถ้าเราเข้าใจ Concept

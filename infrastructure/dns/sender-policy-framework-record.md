@@ -1,4 +1,4 @@
-# 📬 Sender Policy Framework Record
+# 📦 Sender Policy Framework Record
 
 {% hint style="info" %}
 Sender Policy Framework ( SPF ) เป็นวิธีการที่ใช้ในการป้องกันการก่อกวนจาก Spam Mail รวมถึงการหลอกลวงจาก Email Spoofing ด้วย SPF Record ซึ่งเป็น TXT Record บน DNS ที่ทำหน้าที่ในการ Authorized ยืนยัน Domain Name และ IP Address
