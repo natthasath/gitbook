@@ -19,21 +19,27 @@ ldap policy: Set MaxPageSize to 5000
 
 * ทำการเรียกใช้ NTDS Util Command
 
+{% code title="C:\>" %}
 ```
-C:\> ntdsutil
+ntdsutil
 ```
+{% endcode %}
 
 * ทำการพิมพ์ ldap policies
 
+{% code title="ntdsutil:" %}
 ```
-ntdsutil: ldap policies
+ldap policies
 ```
+{% endcode %}
 
 * ทำการพิมพ์ connections
 
+{% code title="ldap policy:" %}
 ```
-ldap policy: connections
+connections
 ```
+{% endcode %}
 
 * ทำการพิมพ์ Connect to server localhost
 
@@ -45,15 +51,21 @@ Connected to localhost using credentials of locally logged on user.
 
 * ทำการ Exit Connection
 
+{% code title="server connections:" %}
 ```
-server connections: q
+q
 ```
+{% endcode %}
 
 * ลองทำการ Show Values
 
+{% code title="ldap policy:" %}
 ```
-ldap policy: Show Values
+Show Values
+```
+{% endcode %}
 
+```
 Policy                          Current(New)
 
 MaxPoolThreads                  4
@@ -79,14 +91,18 @@ SystemMemoryLimitPercent                        0
 
 * ทำการ Set MaxPageSize
 
+{% code title="ldap policy:" %}
 ```
-ldap policy: set Maxpagesize to 50000
+set Maxpagesize to 50000
 ```
+{% endcode %}
 
 * ทำการ Commit
 
+{% code title="ldap policy:" %}
 ```
-ldap policy: commit Changes
+commit Changes
 ```
+{% endcode %}
 
 **อ่านเพิ่มเติม** : [https://bit.ly/3CxE3kw](https://bit.ly/3CxE3kw)
