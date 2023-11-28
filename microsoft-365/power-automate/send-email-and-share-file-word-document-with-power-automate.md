@@ -22,7 +22,7 @@
 
 ![Form-03](../../.gitbook/assets/form-03.png)
 
-* ทำการกำหนดชื่อ Flow name โดยระบุ Trigger เป็น When a file is created in a folder ( SharePoint ) แล้วคลิก Create คำเตือนชื่อต้องมากกว่า 3 ตัวขึ้นไป
+* ทำการกำหนดชื่อ Flow name โดยระบุ Trigger เป็น When a file is created in a folder ( SharePoint ) แล้วคลิก Create <mark style="color:red;">คำเตือนชื่อต้องมากกว่า 3 ตัวขึ้นไป</mark>
 
 ![Share-01](../../.gitbook/assets/share-01.png)
 
@@ -42,15 +42,15 @@
 
 ![Share-05](../../.gitbook/assets/share-05.png)
 
-* เลือก Send an email (V2) ทำการกรอก Email Address, Subject และ Body แล้วคลิก Save คำเตือนหากเลือกเป็น V3 จะไม่สามารถแนบ Attachment, Picture และ Link ได้ เพราะจะโดน Block ต้องไปกำหนด Safe Sender List
+* เลือก Send an email (V2) ทำการกรอก Email Address, Subject และ Body แล้วคลิก Save <mark style="color:red;">คำเตือนหากเลือกเป็น V3 จะไม่สามารถแนบ Attachment, Picture และ Link ได้ เพราะจะโดน Block ต้องไปกำหนด Safe Sender List</mark>
 
 ![Share-06](../../.gitbook/assets/share-06.png)
 
-* คลิก Test เลือก I’ll perform the trigger action คลิก Safe & Test แล้วคลิก Run flow คำเตือนต้องใส่ข้อมูลใน FormList ก่อน Flow ถึงจะทำการ Run ได้
+* คลิก Test เลือก I’ll perform the trigger action คลิก Safe & Test แล้วคลิก Run flow <mark style="color:red;">คำเตือนต้องใส่ข้อมูลใน FormList ก่อน Flow ถึงจะทำการ Run ได้</mark>
 
 ![Share-07](<../../.gitbook/assets/share-07 (1).png>)
 
-* ทำการใส่ข้อมูลใน FormList คลิก New กรอกรายละเอียดของ User Request แล้วคลิก Save คำเตือนข้อมูลใน FormList จะถูก Submit มาจาก Microsoft Form แต่จะทำการลองใส่ข้อมูลให้ดูก่อน
+* ทำการใส่ข้อมูลใน FormList คลิก New กรอกรายละเอียดของ User Request แล้วคลิก Save <mark style="color:red;">คำเตือนข้อมูลใน FormList จะถูก Submit มาจาก Microsoft Form แต่จะทำการลองใส่ข้อมูลให้ดูก่อน</mark>
 
 ![Share-08](../../.gitbook/assets/share-08.png)
 
