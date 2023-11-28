@@ -227,6 +227,7 @@
   * [🤖 How to post Approve Comment to SharePoint List with Power Automate](microsoft-365/power-automate/how-to-post-approve-comment-to-sharepoint-list-with-power-automate.md)
   * [🤖 Generate Unique ID when Submit Microsoft Form with Power Automate](microsoft-365/power-automate/generate-unique-id-when-submit-microsoft-form-with-power-automate.md)
   * [🤖 Notification Maintenance when SharePoint List Create with Power Automate](microsoft-365/power-automate/notification-maintenance-when-sharepoint-list-create-with-power-automate.md)
+  * [🤖 Send Email and Share File Word Document with Power Automate](microsoft-365/power-automate/send-email-and-share-file-word-document-with-power-automate.md)
 * [SharePoint](microsoft-365/sharepoint/README.md)
   * [🤯 Fix Unified Group is not Recognized on Powershell](microsoft-365/sharepoint/fix-unified-group-is-not-recognized-on-powershell.md)
   * [🤯 How to delete Permanent SharePoint Site](microsoft-365/sharepoint/how-to-delete-permanent-sharepoint-site.md)
