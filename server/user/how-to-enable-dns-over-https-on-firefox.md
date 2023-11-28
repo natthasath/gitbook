@@ -19,3 +19,5 @@
 * เลือก Enable DNS over HTTPS แล้วคลิก OK
 
 ![DoH-02.png](../../.gitbook/assets/doh-02.png)
+
+**อ่านเพิ่มเติม** : [https://mzl.la/2H7Hf7j](https://mzl.la/2H7Hf7j)
