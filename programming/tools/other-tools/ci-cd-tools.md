@@ -1,4 +1,4 @@
-# 🚚 CI/CD Tools
+# 🚕 CI/CD Tools
 
 {% embed url="https://www.jenkins.io/" %}
 

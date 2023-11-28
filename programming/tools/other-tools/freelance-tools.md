@@ -1,4 +1,4 @@
-# 🚎 Freelance Tools
+# 🛻 Freelance Tools
 
 {% embed url="https://fastwork.co/" %}
 

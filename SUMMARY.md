@@ -107,6 +107,7 @@
   * [🌠 Merge AVHDX and VHDX for Convert to VMDK](software/vmware/merge-avhdx-and-vhdx-for-convert-to-vmdk.md)
   * [🌠 Convert VMDK to VHDX with Microsoft Virtual Machine Converter](software/vmware/convert-vmdk-to-vhdx-with-microsoft-virtual-machine-converter.md)
   * [🌠 Fix VMware Workstation Device / Credential Guard are not Compatible](software/vmware/fix-vmware-workstation-device-credential-guard-are-not-compatible.md)
+  * [🌠 Convert VMDK to VHDX with StarWind V2V Converter](software/vmware/convert-vmdk-to-vhdx-with-starwind-v2v-converter.md)
 * [Veeam Backup](software/veeam-backup/README.md)
   * [🧊 Install Veeam Backup & Replication 11 on Windows](software/veeam-backup/install-veeam-backup-and-replication-11-on-windows.md)
   * [🧊 Backup Planning Matrix](software/veeam-backup/backup-planning-matrix.md)

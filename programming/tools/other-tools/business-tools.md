@@ -1,4 +1,4 @@
-# 🚛 Business Tools
+# 🚗 Business Tools
 
 {% embed url="https://whitefact.co/" %}
 
