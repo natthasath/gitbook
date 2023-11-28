@@ -12,6 +12,10 @@
 
 {% embed url="https://claude.ai/" %}
 
+## Grok
+
+{% embed url="https://grok.x.ai/" %}
+
 ## SciSpace
 
 {% embed url="https://typeset.io/" %}

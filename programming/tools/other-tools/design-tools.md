@@ -8,4 +8,6 @@
 
 {% embed url="https://openpeeps.com/" %}
 
+{% embed url="https://soco-st.com/" %}
+
 {% embed url="https://kahoot.it/" %}
