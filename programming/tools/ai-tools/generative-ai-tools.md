@@ -24,6 +24,10 @@
 
 {% embed url="https://finchat.io/chats/" %}
 
+## Character.AI
+
+{% embed url="https://beta.character.ai/" %}
+
 ## AB Testing
 
 {% embed url="https://abtesting.ai/" %}
