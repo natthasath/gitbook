@@ -1,4 +1,4 @@
-# 📙 Fix Unified Group is not Recognized on Powershell
+# 🤯 Fix Unified Group is not Recognized on Powershell
 
 {% hint style="info" %}
 ในกรณีที่เราทำการ Delete SharePoint Site ผ่าน Powershell เราจะต้องทำการ Delete Group ของ SharePoint Site ออกก่อน ซึ่งจะต้องใช้คำสั่ง Unified Group แต่เราจะไม่สามารถทำผ่าน Module  ของ Azure AD Powershell ได้

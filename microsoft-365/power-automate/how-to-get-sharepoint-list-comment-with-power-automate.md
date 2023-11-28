@@ -1,4 +1,4 @@
-# 📙 How to get SharePoint List Comment with Power Automate
+# 🤖 How to get SharePoint List Comment with Power Automate
 
 {% hint style="info" %}
 หลังจากที่เราทำการเก็บ Approve Comment บน SharePoint List กันไปแล้ว เราจะทำการดึง Comment ที่เราเก็บบน SharePoint List ไปใช้ต่อ เช่น ใช้ในการส่งอีเมล

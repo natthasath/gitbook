@@ -1,4 +1,4 @@
-# ☁ How to Rename all Files in Folder use UUID with Power Automate Desktop
+# 🤖 How to Rename all Files in Folder use UUID with Power Automate Desktop
 
 {% hint style="info" %}
 ในกรณีที่เราอยากจะทำการ Rename Files ทั้งหมดที่อยู่ใน Folder เมื่อก่อนเราจะต้องเขียน Code อย่างพวก Python แต่ปัจจุบันเราสามารใช้ Power Automate Desktop ในการ Rename Files ทั้งหมดได้แล้ว ซึ่งใช้งานสะดวกมาก
