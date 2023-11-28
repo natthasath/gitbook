@@ -1,4 +1,4 @@
-# 🚗 Generative AI Tools
+# ❤ Generative AI Tools
 
 ## ChatGPT
 
