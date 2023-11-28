@@ -112,6 +112,7 @@
 * [Veeam Backup](software/veeam-backup/README.md)
   * [🧊 Install Veeam Backup & Replication 11 on Windows](software/veeam-backup/install-veeam-backup-and-replication-11-on-windows.md)
   * [🧊 Backup Planning Matrix](software/veeam-backup/backup-planning-matrix.md)
+  * [🧊 Fix Veeam Backup Error Full Backup File Merge Failed](software/veeam-backup/fix-veeam-backup-error-full-backup-file-merge-failed.md)
 * [ESET](software/eset/README.md)
   * [🐕🦺 Fix can’t Uninstall ESET Management Agent](software/eset/fix-cant-uninstall-eset-management-agent.md)
 * [ISPConfig](software/ispconfig/README.md)
