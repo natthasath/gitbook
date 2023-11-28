@@ -52,6 +52,7 @@
   * [📦 Migrate User on Active Directory to Another Domain](infrastructure/dns/migrate-user-on-active-directory-to-another-domain.md)
   * [📦 Fix can’t Delete Object on Active Directory](infrastructure/dns/fix-cant-delete-object-on-active-directory.md)
   * [📦 Create Conditional Forwarder DNS on Windows Server 2012 R2](infrastructure/dns/create-conditional-forwarder-dns-on-windows-server-2012-r2.md)
+  * [📦 Create Stub DNS Zone on Windows Server 2012 R2](infrastructure/dns/create-stub-dns-zone-on-windows-server-2012-r2.md)
 * [Network](infrastructure/network/README.md)
   * [👥 Local Area Network 101](infrastructure/network/local-area-network-101.md)
   * [👥 Export and Import Session on SecureCRT](infrastructure/network/export-and-import-session-on-securecrt.md)
