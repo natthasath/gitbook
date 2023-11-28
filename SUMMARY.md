@@ -95,6 +95,7 @@
   * [👽 Upgrade Windows 10 Version 1803 to 1903](server/user/upgrade-windows-10-version-1803-to-1903.md)
   * [👽 Join Windows Insider Program on Windows 10](server/user/join-windows-insider-program-on-windows-10.md)
   * [👽 Fix RDP Error Exceeded the Maximum Number of Allowed Connections](server/user/fix-rdp-error-exceeded-the-maximum-number-of-allowed-connections.md)
+  * [👽 How to enable DNS over HTTPS on Firefox](server/user/how-to-enable-dns-over-https-on-firefox.md)
 
 ## 🧑🍼 Software
 
