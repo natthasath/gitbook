@@ -16,7 +16,7 @@ Sender Policy Framework ( SPF ) เป็นวิธีการที่ใช
 
 ## **SPF Record Check**
 
-![SPF-02](../../.gitbook/assets/spf-02.png)
+![](../../.gitbook/assets/spf-02.png)
 
 เราสามารถทำการตรวจสอบ SPF Record Online ได้จาก [https://mxtoolbox.com/spf.aspx](https://mxtoolbox.com/spf.aspx) ด้วยการระบุ Domain Name หรือ IP Address จากรูปก็จะเห็นว่า
 

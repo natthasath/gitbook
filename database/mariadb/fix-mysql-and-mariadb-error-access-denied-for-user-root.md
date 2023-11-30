@@ -24,7 +24,8 @@ mysql -u root
 
 * แต่ถ้า Version ของ MySQL >= 5.7 ให้ทำการเปลี่ยน Password ด้วยคำสั่ง
 
-<pre><code><strong>mysqladmin -u root password new_password
-</strong></code></pre>
+```
+mysqladmin -u root password new_password
+```
 
 **อ่านเพิ่มเติม** : [http://bit.ly/3gEnNah](http://bit.ly/3gEnNah)

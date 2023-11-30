@@ -55,7 +55,7 @@
   * [📦 Create Stub DNS Zone on Windows Server 2012 R2](infrastructure/dns/create-stub-dns-zone-on-windows-server-2012-r2.md)
   * [📦 Domain Permission Admin](infrastructure/dns/domain-permission-admin.md)
   * [📦 Domain Model](infrastructure/dns/domain-model.md)
-  * [Active Directory ( AD ) 101](infrastructure/dns/active-directory-ad-101.md)
+  * [📦 Active Directory ( AD ) 101](infrastructure/dns/active-directory-ad-101.md)
 * [Network](infrastructure/network/README.md)
   * [👥 Local Area Network 101](infrastructure/network/local-area-network-101.md)
   * [👥 Export and Import Session on SecureCRT](infrastructure/network/export-and-import-session-on-securecrt.md)

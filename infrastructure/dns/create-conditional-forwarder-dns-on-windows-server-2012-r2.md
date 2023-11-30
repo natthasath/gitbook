@@ -11,22 +11,22 @@
 
 ## **LAB Diagram**
 
-![DNS Zone](../../.gitbook/assets/dns-zone.png)
+![](../../.gitbook/assets/dns-zone.png)
 
 ## **Get Started**
 
 * ทำการเปิด DNS Manager เลือก Conditional Forwarder แล้วคลิกขวา New Conditional Forwarder
 
-![Conditional-01.png](../../.gitbook/assets/conditional-01.png)
+![](../../.gitbook/assets/conditional-01.png)
 
 * ทำการระบุ Domain Name และ IP ของเครื่อง DC2 แล้วคลิก Next
 
-![Conditional-02.png](../../.gitbook/assets/conditional-02.png)
+![](../../.gitbook/assets/conditional-02.png)
 
 * จะแสดง Domain ท้ังหมดที่อยู่ใน Conditional Forwarder ซึ่งจะส่งไปถามยัง DNS เครื่องอื่น
 
-![Conditional-03](../../.gitbook/assets/conditional-03.png)
+![](../../.gitbook/assets/conditional-03.png)
 
 * ทำการทดสอบที่เครื่อง Client โดยการ ping จะทำการถามตอบที่เครื่อง DC1 แต่จะเป็นการส่งไปถามที่เครื่อง DC2
 
-![Conditional-04.png](../../.gitbook/assets/conditional-04.png)
+![](../../.gitbook/assets/conditional-04.png)

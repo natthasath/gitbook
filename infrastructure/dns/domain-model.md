@@ -6,7 +6,7 @@
 
 ## **Single Domain**
 
-![Single Domain.png](../../.gitbook/assets/single-domain.png)
+![](../../.gitbook/assets/single-domain.png)
 
 {% hint style="success" %}
 แบบแรก Single Domain ซึ่งเป็นรูปแบบที่องค์กรหลาย ๆ ที่นิยมใช้กันมากที่สุด จะเป็นการสร้าง Domain แค่ Domain เดียว และทำ Additional เพิ่มกรณีที่ Primary Domain ตัวหลักไม่สามารถทำงานได้ Secondary Domain ตัวสำรองจอต้องทำแทน
@@ -14,7 +14,7 @@
 
 ## **Single Domain Tree**
 
-![Single Domain Tree.png](../../.gitbook/assets/single-domain-tree.png)
+![](../../.gitbook/assets/single-domain-tree.png)
 
 {% hint style="success" %}
 แบบที่สอง Single Domain Tree ก็ยังนิยมในองค์กรหลาย ๆ ที่อีกเช่นกัน จะเป็นการสร้าง Parent Domain และ Child Domain ซึ่งจะเหมาะกับองค์กรที่มีหลายสาขา
@@ -22,7 +22,7 @@
 
 ## **Single Forest**
 
-![Single Forest.png](../../.gitbook/assets/single-forest.png)
+![](../../.gitbook/assets/single-forest.png)
 
 {% hint style="success" %}
 แบบที่สาม Single Forest จะนิยมกับองค์กรที่มีขนาดใหญ่ จะเป็นการสร้าง Domain หลาย ๆ Domain ที่อยู่ภายใต้ Forest เดียวกัน ซึ่งจะเหมาะกับองค์กรที่มีหลายบริษัทในเครือ หรือ มีบริษัทย่อย
@@ -30,7 +30,7 @@
 
 ## **Multiple Forest**
 
-![Multiple Forest.png](../../.gitbook/assets/multiple-forest.png)
+![](../../.gitbook/assets/multiple-forest.png)
 
 {% hint style="success" %}
 แบบสุดท้าย Multiple Forest จะนิยมกับองค์กรที่ควบรวมกิจการระหว่าง 2 องค์กร ซึ่งแต่ละที่มี Domain ของตัวเองอยู่แล้ว แต่อยากให้สามารถทำการ Shared Network Resource ร่วมกัน จะใช้วิธีการทำ Trust

@@ -8,12 +8,12 @@
 
 * ทำการ Import โดยคลิก Tools > Export Settings
 
-![SecureCRT-01](../../.gitbook/assets/securecrt-01.png)
+![](../../.gitbook/assets/securecrt-01.png)
 
 * เลือก Session ทำการระบุ Path แล้วคลิก Export
 
-![SecureCRT-02](../../.gitbook/assets/securecrt-02.png)
+![](../../.gitbook/assets/securecrt-02.png)
 
 * ทำการ Import โดยคลิก Tools > Import Settings
 
-![SecureCRT-03](../../.gitbook/assets/securecrt-03.png)
+![](../../.gitbook/assets/securecrt-03.png)

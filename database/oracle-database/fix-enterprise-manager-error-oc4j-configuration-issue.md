@@ -71,4 +71,4 @@ Logs are generated in directory /u01/app/oracle/product/11.2.0/db_1/lab-ora.lab.
 
 * ลองทำการเข้าผ่านหน้าเว็บ [https://localhost:1158/em/console/aboutApplication](https://localhost:1158/em/console/aboutApplication)
 
-![EM-01](../../.gitbook/assets/em-01.png)
+![](../../.gitbook/assets/em-01.png)

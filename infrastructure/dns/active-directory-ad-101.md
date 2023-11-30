@@ -1,10 +1,10 @@
-# Active Directory ( AD ) 101
+# 📦 Active Directory ( AD ) 101
 
 {% hint style="info" %}
 Active Directory ( AD ) เป็นการจัดการข้อมูล Directory Service ภายในองค์กรแบบ Centralized Administrator ในการเก็บข้อมูลของ User & Computer เพื่อใช้ในการ Authentication & Authorization หรือที่เรียกกันว่า Single Sign-On นอกจากนี้ยังใช้ในการจัดการ Security Policy เพื่อเข้าถึง Shared Network Resource ต่าง ๆ
 {% endhint %}
 
-![AD-00.png](../../.gitbook/assets/ad-00.jpg)
+![](../../.gitbook/assets/ad-00.jpg)
 
 ## **Directory Service**
 
@@ -12,7 +12,7 @@ Active Directory ( AD ) เป็นการจัดการข้อมู�
 โดยปกติจะมีการจัดการอยู่ 2 รูปแบบ คือ Centralized Administrator เป็นการจัดการจากศูนย์กลาง และ Dispersed Administrator ( Work Group ) เป็นการจัดการแบบแต่ละแผนก การใช้งาน Active Directory บน Windows Server จะมี Service ที่ให้บริการอยู่ 5 ตัวด้วยกัน ได้แก่
 {% endhint %}
 
-![AD-01.png](<../../.gitbook/assets/ad-01 (1).png>)
+![](<../../.gitbook/assets/ad-01 (1).png>)
 
 * Active Directory Domain Services ( AD DS )
 * Active Directory Certificate Services ( AD CS )

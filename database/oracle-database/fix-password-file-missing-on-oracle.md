@@ -15,7 +15,7 @@ ORA-01994: GRANT failed: password file missing or disabled
 
 รวมถึงจะไม่สามารถทำการ Remote Login ด้วย User ที่มี Privilege DBA ได้เช่นเดียวกัน
 
-![ORAPWD-01](https://codeinsane.files.wordpress.com/2020/07/orapwd-01.png?w=636)
+![](https://codeinsane.files.wordpress.com/2020/07/orapwd-01.png?w=636)
 
 ## **Configuration**
 

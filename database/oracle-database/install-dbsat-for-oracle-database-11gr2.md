@@ -4,7 +4,7 @@
 Database Security Assessment Tool ( DBSAT ) เป็น Utility ของ Oracle Database ที่ใช้ในการตรวจสอบความปลอดภัยของฐานข้อมูล Database Security และช่วยในการระบุข้อมูลที่สำคัญ Sensitive Data ในฐานข้อมูล ไม่ว่าจะเป็น Database Version, Security Feature, Patch รวมถึงการทำ Oracle Account Assessment
 {% endhint %}
 
-![DBSAT-00.png](../../.gitbook/assets/dbsat-00.png)
+![](../../.gitbook/assets/dbsat-00.png)
 
 ## **Requirement**
 
@@ -207,6 +207,6 @@ zip completed successfully.
 
 * จะแสดงผลลัพธ์ในรูปแบบ HTML
 
-![DBSAT-02.png](../../.gitbook/assets/dbsat-02.png)
+![](../../.gitbook/assets/dbsat-02.png)
 
 **อ่านเพิ่มเติม** : [https://bit.ly/2n89KgU](https://bit.ly/2n89KgU)
