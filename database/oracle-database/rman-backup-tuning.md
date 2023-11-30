@@ -6,12 +6,33 @@
 
 ## **Parameter**
 
-* Backup Optimization : จะข้ามการสำรองไฟล์หากซ้ำกับไฟล์ที่ทำการสำรองไปยัง Device Type ที่ระบุเรียบร้อยแล้ว ซึ่งจะพิจารณาจาก
-  1. Data File ต้องตรงกัน ดูจาก DBID, Checkpoint SCN, Creation SCN และ Resetlogs SCN
-  2. Archive Log ต้องตรงกัน ดูจาก DBID, Thread, Sequence Number, Resetlogs SCN
-  3. Backup Set ต้องตรงกัน ดูจาก DBID, Backup Set Record ID, Stamp
-* Control File Auto Backup : จะทำการสำรองไฟล์ Control File โดยอัตโนมัติ หลังจากใช้คำสั่ง RMAN Backup เสร็จ กรณีที่ทำงานอยู่ในโหมด Archive Log จะทำการสำรองไฟล์ Control File โดยอัตโนมัติ หากมีการเปลี่ยนแปลงโครงสร้างฐานข้อมูลที่ส่งผลกระทบต่อ Control File
-* Device Type : จะทำการสำรองไฟล์ไปยัง Disk ( Default ) จะไปอยู่ที่ Fast Recovery Area ซึ่งจะต้องดู Logical Block Size ของ Database กับ Physical Block Size ของ Disk ด้วย โดยส่วนใหญ่จะมี Block Size เท่ากับ 512 Bytes ดังนั้น Logical Block Size ก็อาจจะเป็น 2KB, 4KB, 6KB หากต้องการสำรองไฟล์ไปยัง Non Disk จะต้องกำหนดเป็น SBT
+<details>
+
+<summary>Backup Optimization</summary>
+
+จะข้ามการสำรองไฟล์หากซ้ำกับไฟล์ที่ทำการสำรองไปยัง Device Type ที่ระบุเรียบร้อยแล้ว ซึ่งจะพิจารณาจาก
+
+1. Data File ต้องตรงกัน ดูจาก DBID, Checkpoint SCN, Creation SCN และ Resetlogs SCN
+2. Archive Log ต้องตรงกัน ดูจาก DBID, Thread, Sequence Number, Resetlogs SCN
+3. Backup Set ต้องตรงกัน ดูจาก DBID, Backup Set Record ID, Stamp
+
+</details>
+
+<details>
+
+<summary>Control File Auto Backup</summary>
+
+จะทำการสำรองไฟล์ Control File โดยอัตโนมัติ หลังจากใช้คำสั่ง RMAN Backup เสร็จ กรณีที่ทำงานอยู่ในโหมด Archive Log จะทำการสำรองไฟล์ Control File โดยอัตโนมัติ หากมีการเปลี่ยนแปลงโครงสร้างฐานข้อมูลที่ส่งผลกระทบต่อ Control File
+
+</details>
+
+<details>
+
+<summary>Device Type</summary>
+
+จะทำการสำรองไฟล์ไปยัง Disk ( Default ) จะไปอยู่ที่ Fast Recovery Area ซึ่งจะต้องดู Logical Block Size ของ Database กับ Physical Block Size ของ Disk ด้วย โดยส่วนใหญ่จะมี Block Size เท่ากับ 512 Bytes ดังนั้น Logical Block Size ก็อาจจะเป็น 2KB, 4KB, 6KB หากต้องการสำรองไฟล์ไปยัง Non Disk จะต้องกำหนดเป็น SBT
+
+</details>
 
 ## **Get Started**
 
