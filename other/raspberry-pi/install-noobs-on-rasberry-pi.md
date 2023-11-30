@@ -18,15 +18,15 @@
 
 * ทำการ Format Micro SD Card โดยเลือก File System เป็น FAT32
 
-![Raspbian-01](../../.gitbook/assets/raspbian-01.png)
+![](../../.gitbook/assets/raspbian-01.png)
 
 * เปิดโปรแกรม Win32DiskImager แล้วทำการ Mount ไฟล์ NOOBS Image เลือก Device แล้วคลิก Write
 
-![Raspbian-02](../../.gitbook/assets/raspbian-02.png)
+![](../../.gitbook/assets/raspbian-02.png)
 
 * คลิก Yes
 
-![Raspbian-03](../../.gitbook/assets/raspbian-03.png)
+![](../../.gitbook/assets/raspbian-03.png)
 
 * นำ Micro SD Card ไปใส่ใน Raspberry Pi แล้วทำการกรอก Username และ Password
 

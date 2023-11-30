@@ -91,6 +91,6 @@ echo "export DOCKER_HOST=localhost:2375" >> ~/.bash_profile
 
 * เปิดโปรแกรม Docker Desktop เลือก General แล้วคลิก Expose daemon
 
-![Docker-01.png](../../.gitbook/assets/docker-01.png)
+![](../../.gitbook/assets/docker-01.png)
 
 **อ่านเพิ่มเติม** : [https://dockr.ly/2rgbOBK](https://dockr.ly/2rgbOBK), [https://bit.ly/2oT6kPV](https://bit.ly/2oT6kPV)

@@ -4,7 +4,7 @@
 โดยปกติการสร้าง Account บน Microsoft Office 365 หลังจากทำการ Provisioning แล้ว อาจจะเกิดข้อผิดพลาด เช่น Mail ไม่สามารถใช้งานได้ โดยจะขึ้นข้อความว่า We are preparing ซึ่งหลังจากทำการตรวจสอบ Provisioning Status แล้วพบว่า Exchange Error ซึ่งหากทำการ Redo Provisioning แล้วยังไม่ได้อาจจะต้องทำการ Remove License แล้วทำการ Assign License ใหม่ ผ่านทาง Powershell
 {% endhint %}
 
-![Provisioning-01](../../.gitbook/assets/provisioning-01.png)
+![](../../.gitbook/assets/provisioning-01.png)
 
 ## **Requirement**
 
@@ -22,7 +22,7 @@ Connect-MsolService
 
 * กรอก Username และ Password ด้วย Account ที่มีสิทธิ์จัดการ Azure Active Directory
 
-![SharePoint-01](../../.gitbook/assets/sharepoint-01.png)
+![](../../.gitbook/assets/sharepoint-01.png)
 
 * ทำการตรวจสอบ Provisioning Status จะเห็นว่า Exchange Error
 

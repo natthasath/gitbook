@@ -19,81 +19,81 @@
 
 * ทำการดาวน์โหลด NVIDIA GPU Driver 410.x ขึ้นไป สำหรับ CUDA Toolkit 9.0 โดยเลือกเวอร์ชั่น NVIDIA ให้ตรงกับที่ใช้งาน ซึ่งผมใช้ Geforce GTX 1660 Ti อย่าลืมเลือกให้ตรงกับระบบปฏิบัติการ Windows 10 64-bit กรณีที่เป็น Windows ให้เลือก Driver Type เป็น [DCH](https://nvidia.custhelp.com/app/answers/detail/a\_id/4777/\~/windows-driver-types)
 
-![GPU-01.png](../../.gitbook/assets/gpu-01.png)
+![](../../.gitbook/assets/gpu-01.png)
 
 * คลิก OK
 
-![GPU-02](../../.gitbook/assets/gpu-02.png)
+![](../../.gitbook/assets/gpu-02.png)
 
 * เลือก NVIDIA Graphics Driver and Geforce Experience แล้วคลิก Agree and Continue
 
-![GPU-03.png](../../.gitbook/assets/gpu-03.png)
+![](../../.gitbook/assets/gpu-03.png)
 
 * เลือก Express แล้วคลิก Next
 
-![GPU-04.png](../../.gitbook/assets/gpu-04.png)
+![](../../.gitbook/assets/gpu-04.png)
 
 * เลือก Create Desktop Shortcut แล้วคลิก Restart Now
 
-![GPU-05.png](../../.gitbook/assets/gpu-05.png)
+![](../../.gitbook/assets/gpu-05.png)
 
 ### Step 2&#x20;
 
 * ทำการดาวน์โหลด CUDA Toolkit 9.0 อย่าลืมเลือกให้ตรงกับระบบปฏิบัติการ Windows 10 64-bit
 
-![CUDA-01.png](../../.gitbook/assets/cuda-01.png)
+![](../../.gitbook/assets/cuda-01.png)
 
 * คลิก Agree and Continue
 
-![CUDA-02.png](../../.gitbook/assets/cuda-02.png)
+![](../../.gitbook/assets/cuda-02.png)
 
 * เลือก Express แล้วคลิก Next
 
-![CUDA-03.png](../../.gitbook/assets/cuda-03.png)
+![](../../.gitbook/assets/cuda-03.png)
 
 * เลือก I understand แล้วคลิก Next
 
-![CUDA-04.png](../../.gitbook/assets/cuda-04.png)
+![](../../.gitbook/assets/cuda-04.png)
 
 * คลิก Next
 
-![CUDA-05.png](../../.gitbook/assets/cuda-05.png)
+![](../../.gitbook/assets/cuda-05.png)
 
 * คลิก Close
 
-![CUDA-06.png](../../.gitbook/assets/cuda-06.png)
+![](../../.gitbook/assets/cuda-06.png)
 
 ### Step 3&#x20;
 
 * ทำการดาวน์โหลด cuDNN 7.6.3 สำหรับ CUDA 9.0 อย่าลืมเลือกให้ตรงกับระบบปฏิบัติการ Windows 10 64-bit โดยสถาปัตยกรรมแบบใหม่ Volta สามารถ Train ข้อมูลได้เร็วกว่าแบบเดิมซึ่งเป็นแบบ Pascal ถึง 3 เท่า
 
-![cuDNN-01.png](<../../.gitbook/assets/cudnn-01 (1).png>)
+![](<../../.gitbook/assets/cudnn-01 (1).png>)
 
 * จากนั้นทำการคัดลอกไฟล์ cudnn64\_7.dll ไปไว้ใน _C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin_
 
-![cuDNN-02](../../.gitbook/assets/cudnn-02.png)
+![](../../.gitbook/assets/cudnn-02.png)
 
 * จากนั้นทำการคัดลอกไฟล์ cudnn.h ไปไว้ใน _C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\include_
 
-![cuDNN-03.png](../../.gitbook/assets/cudnn-03.png)
+![](../../.gitbook/assets/cudnn-03.png)
 
 * จากนั้นทำการคัดลอกไฟล์ cudnn.lib ไปไว้ใน _C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\lib\x64_
 
-![cuDNN-04.png](https://codeinsane.files.wordpress.com/2018/04/cudnn-04.png?w=636)
+![](https://codeinsane.files.wordpress.com/2018/04/cudnn-04.png?w=636)
 
 ### Step 4&#x20;
 
 * ทำการรัน sysdm.cpl เลือก Advanced แล้วคลิก Environment Variables
 
-![ENV-01.png](../../.gitbook/assets/env-01.png)
+![](../../.gitbook/assets/env-01.png)
 
 * เลือก Path แล้วคลิก Edit User variables
 
-![ENV-02.png](../../.gitbook/assets/env-02.png)
+![](../../.gitbook/assets/env-02.png)
 
 * ทำการระบุ Path ของ CUDA เป็น _C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin_
 
-![ENV-03.png](../../.gitbook/assets/env-03.png)
+![](../../.gitbook/assets/env-03.png)
 
 * ทำการสร้าง Virtual Environment
 
@@ -153,6 +153,6 @@ python tensorflow-begin.py
 
 * ลองดูผลลัพธ์
 
-![Tensorflow-01.png](../../.gitbook/assets/tensorflow-01.png)
+![](../../.gitbook/assets/tensorflow-01.png)
 
 **อ่านเพิ่มเติม** : [https://bit.ly/2PTCMtg](https://bit.ly/2PTCMtg)

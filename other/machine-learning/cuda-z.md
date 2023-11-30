@@ -12,8 +12,8 @@
 
 * ทำการดาวน์โหลด CUDA-Z
 
-![CUDA-00.png](../../.gitbook/assets/cuda-00.png)
+![](../../.gitbook/assets/cuda-00.png)
 
 * เปิดโปรแกรม CUDA-Z จะทำการตรวจสอบ CUDA ว่าได้ทำการ Enable GPU หรือไม่ และยังสามารถตรวจสอบ Performance ของ GPU ได้อีกด้วย
 
-![CUDA-01.png](<../../.gitbook/assets/cuda-01 (1).png>)
+![](<../../.gitbook/assets/cuda-01 (1).png>)

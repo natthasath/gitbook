@@ -6,7 +6,7 @@
 
 ## ☑️ [SPEC Builder](https://notebookspec.com/pc/6745442)
 
-![SPEC-01.png](../../.gitbook/assets/spec-01.png)
+![](../../.gitbook/assets/spec-01.png)
 
 ## **✅ Requirement**
 

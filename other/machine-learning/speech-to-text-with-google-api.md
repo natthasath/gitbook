@@ -13,11 +13,11 @@
 
 * เข้าไปที่หน้าเว็บ [https://cloud.google.com/speech-to-text/docs/quickstart-gcloud](https://cloud.google.com/speech-to-text/docs/quickstart-gcloud) แล้วคลิก Set up a project
 
-![Speech-01.png](../../.gitbook/assets/speech-01.png)
+![](../../.gitbook/assets/speech-01.png)
 
 * ทำการ Create project คลิก Next แล้วคลิก Download private key a JSON
 
-![Speech-02.png](../../.gitbook/assets/speech-02.png)
+![](../../.gitbook/assets/speech-02.png)
 
 * ทำการติดตั้ง Google Cloud SDK แล้วกำหนดค่า Environment Variable
 

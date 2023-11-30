@@ -35,7 +35,7 @@ wsl --export Ubuntu-18.04 D:\Work\WSL\backup\Ubuntu-18.04.tar
 
 * ลองทำการเปิดโฟลเดอร์ backup ขึ้นมา
 
-![WSL-01.png](../../.gitbook/assets/wsl-01.png)
+![](../../.gitbook/assets/wsl-01.png)
 
 * ทำการ Import Distro
 
