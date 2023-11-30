@@ -74,70 +74,70 @@ docker-compose up -d
 
 * ทำการเปิดโปรแกรม OBS แล้วคลิก Add Source -> Video Capture Device
 
-![OBS-01](../../.gitbook/assets/obs-01.png)
+![](../../.gitbook/assets/obs-01.png)
 
 * เลือก Create new แล้วคลิก OK
 
-![OBS-02](../../.gitbook/assets/obs-02.png)
+![](../../.gitbook/assets/obs-02.png)
 
 * เลือก Device แล้วคลิก OK
 
-![OBS-03](../../.gitbook/assets/obs-03.png)
+![](../../.gitbook/assets/obs-03.png)
 
 * คลิก Settings
 
-![OBS-04](../../.gitbook/assets/obs-04.png)
+![](../../.gitbook/assets/obs-04.png)
 
 * คลิก Stream
 
-![OBS-05](../../.gitbook/assets/obs-05.png)
+![](../../.gitbook/assets/obs-05.png)
 
 * ทำการกรอก Server RTMP และ Stream Key แล้วคลิก OK
 
-![OBS-06](../../.gitbook/assets/obs-06.png)
+![](../../.gitbook/assets/obs-06.png)
 
 * คลิก Start Streaming
 
-![OBS-07](../../.gitbook/assets/obs-07.png)
+![](../../.gitbook/assets/obs-07.png)
 
 * ทำการเปิดโปรแกรม VLC แล้วคลิก Media -> Stream
 
-![VLC-01](../../.gitbook/assets/vlc-01.png)
+![](../../.gitbook/assets/vlc-01.png)
 
 * คลิก Network
 
-![VLC-02](../../.gitbook/assets/vlc-02.png)
+![](../../.gitbook/assets/vlc-02.png)
 
 * ทำการกรอก Network URL แล้วคลิก Stream
 
-![VLC-03](../../.gitbook/assets/vlc-03.png)
+![](../../.gitbook/assets/vlc-03.png)
 
 * คลิก Next
 
-![VLC-04](../../.gitbook/assets/vlc-04.png)
+![](../../.gitbook/assets/vlc-04.png)
 
 * คลิก Next
 
-![VLC-05](../../.gitbook/assets/vlc-05.png)
+![](../../.gitbook/assets/vlc-05.png)
 
 * คลิก Next
 
-![VLC-06](../../.gitbook/assets/vlc-06.png)
+![](../../.gitbook/assets/vlc-06.png)
 
 * คลิก Stream
 
-![VLC-07](../../.gitbook/assets/vlc-07.png)
+![](../../.gitbook/assets/vlc-07.png)
 
 * จะแสดง Video Streaming
 
-![VLC-08](../../.gitbook/assets/vlc-08.png)
+![](../../.gitbook/assets/vlc-08.png)
 
 * ลองเข้าไปที่ [http://localhost:9991](http://localhost:9991/) แล้วกรอก Username และ Password ด้วย admin : password
 
-![RTMP-01](../../.gitbook/assets/rtmp-01.png)
+![](../../.gitbook/assets/rtmp-01.png)
 
 * หลังจาก Login เข้ามาจะเห็นหน้าตาแบบนี้
 
-![RTMP-02](../../.gitbook/assets/rtmp-02.png)
+![](../../.gitbook/assets/rtmp-02.png)
 
 **อ่านเพิ่มเติม** : [https://dockr.ly/39A5uet](https://dockr.ly/39A5uet)

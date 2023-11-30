@@ -4,7 +4,7 @@
 ในการเชื่อมต่อกับฐานข้อมูลในภาษา .NET Programming ของทาง Microsoft จะใช้ Universal Data Access ในการเข้าถึงฐานข้อมูล ไม่ว่าจะเป็น ODBC, OLEDB และ ADO จะมีลักษณะการใช้งานที่แตกต่างกัน รวมถึง ODP.NET ของทาง Oracle ที่ใช้ในการเข้าถึงฐานข้อมูล Oracle Database โดยเฉพาะ
 {% endhint %}
 
-![Universal-01](../../.gitbook/assets/universal-01.png)
+![](../../.gitbook/assets/universal-01.png)
 
 ## [**ODBC**](https://en.wikipedia.org/wiki/Open\_Database\_Connectivity)
 

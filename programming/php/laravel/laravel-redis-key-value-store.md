@@ -141,6 +141,6 @@ class OtpController extends Controller
 
 * ทำการตรวจสอบผ่าน Redis GUI
 
-![Redis-01.png](../../../.gitbook/assets/redis-01.png)
+![](../../../.gitbook/assets/redis-01.png)
 
 **อ่านเพิ่มเติม** : [https://bit.ly/2kv4xPn](https://bit.ly/2kv4xPn)

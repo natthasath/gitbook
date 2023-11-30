@@ -23,47 +23,47 @@
 
 * เข้าไปที่ [https://console.dialogflow.com/](https://console.dialogflow.com/) แล้วคลิก Create Agent
 
-![Firebase-01](../../../.gitbook/assets/firebase-01.png)
+![](../../../.gitbook/assets/firebase-01.png)
 
 * กำหนดชื่อเป็น Firebase โดยเลือก Default Language เป็นภาษา Thai แล้วคลิก Create
 
-![Firebase-02](../../../.gitbook/assets/firebase-02.png)
+![](../../../.gitbook/assets/firebase-02.png)
 
 * คลิก Fulfillment แล้วทำการ Enable Inline Editor
 
-![Firebase-03](../../../.gitbook/assets/firebase-03.png)
+![](../../../.gitbook/assets/firebase-03.png)
 
 * คลิก Deploy
 
-![Firebase-04](../../../.gitbook/assets/firebase-04.png)
+![](../../../.gitbook/assets/firebase-04.png)
 
 * รอจนทำการ Deploy เสร็จ แล้วคลิก View execution logs in the Firebase console
 
-![Firebase-05](../../../.gitbook/assets/firebase-05.png)
+![](../../../.gitbook/assets/firebase-05.png)
 
 * เลือก Database แล้วคลิก  Create Database
 
-![Firebase-06](../../../.gitbook/assets/firebase-06.png)
+![](../../../.gitbook/assets/firebase-06.png)
 
 * เลือก Start in test mode แล้วคลิก Enable
 
-![Firebase-07](../../../.gitbook/assets/firebase-07.png)
+![](../../../.gitbook/assets/firebase-07.png)
 
 * จะเห็นว่าใน Test mode จะขึ้นเตือนว่าบุคคลอื่นสามารถทำการ Read, Write และ Delete ได้
 
-![Firebase-08](../../../.gitbook/assets/firebase-08.png)
+![](../../../.gitbook/assets/firebase-08.png)
 
 * คลิก Create Intent บน Dialogflow
 
-![Firebase-09](../../../.gitbook/assets/firebase-09.png)
+![](../../../.gitbook/assets/firebase-09.png)
 
 * คลิก Add Training Phrases
 
-![Firebase-10](../../../.gitbook/assets/firebase-10.png)
+![](../../../.gitbook/assets/firebase-10.png)
 
 * ให้ทำการสร้าง Save Intent ซึ่งเปรียบเสมือนประโยคที่ลูกค้าจะสั่งบันทึกข้อมูล เช่น ลาเต้เย็นหวานน้อย, เอสเพรสโซ่ร้อน, Mocha ปั่น ซึ่งถ้าหากกำหนด Entity ก่อน แล้วมาสร้าง Intent มันจะทำการ Detect Entity ให้โดยอัตโนมัติ
 
-![Firebase-11](../../../.gitbook/assets/firebase-11.png)
+![](../../../.gitbook/assets/firebase-11.png)
 
 * ทำการ Connect Dialogflow กับ Firebase
 

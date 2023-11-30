@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # 🐳 How to Trust Sign Image on Docker
 
 {% hint style="info" %}

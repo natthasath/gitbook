@@ -4,7 +4,7 @@
 หลายคนคงเคยเรียนภาษา .NET Programming ของทางฝั่ง Microsoft ในวิชาคอมพิวเตอร์กันมาบ้าง ไม่ว่าจะเป็น VB, C# ซึ่งจะยึดติดกับ Platform ของทางฝั่ง Microsoft เอง ต่อมาเมื่อเกิดภาษา Programming ที่เป็น Cross-Platform มากขึ้น Microsoft จึงต้องหันมาทำ .NET Core บ้าง
 {% endhint %}
 
-![.NET\_Core-01.png](../../.gitbook/assets/net\_core-01.png)
+![](../../.gitbook/assets/net\_core-01.png)
 
 ## Overview
 
@@ -12,13 +12,13 @@
 .NET Core เป็น Other Framework ที่ได้รับความนิยมสูงสุดของปี 2019 บน [Stack Overflow](https://insights.stackoverflow.com/survey/2019) จากการที่มันเป็น Programming Language แบบ Cross-Platform นั่นเอง โดยจะใช้ Library แยกจาก .NET Framework แต่จะใช้ Compiler & Runtime Component ร่วมกัน
 {% endhint %}
 
-![.NET\_Core-02.png](../../.gitbook/assets/net\_core-02.png)
+![](../../.gitbook/assets/net\_core-02.png)
 
 เมื่อพัฒนา .NET Core มาซะขนาดนี้ จะให้ใช้ Visual Studio บน Windows มันก็ดูจะเป็น Cross-Platform ที่ใช้ไม่ได้จริง ทาง Microsoft เลยทำ Visual Code ที่เป็น Code Editor แบบ Cross-Platform ขึ้นมารองรับนั่นเอง จะต่างกับ Visual Studio ที่เป็น IDE เพื่อมารองรับการเขียน .NET Core
 
 ## **.NET Core vs .NET Framework**
 
-![.NET\_Core-03.png](../../.gitbook/assets/net\_core-03.png)
+![](../../.gitbook/assets/net\_core-03.png)
 
 {% tabs %}
 {% tab title=".NET Core" %}
@@ -38,6 +38,6 @@
 หลังจากการเปิดตัว .NET Core 3.0 ทาง Microsoft ก็ประกาศการเปิดตัวครั้งต่อไปจะเป็น [.NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/) ในเดือนพฤศจิกายน 2020 ซึ่งเป็นการรวม .NET Core และ .NET Framework เข้าด้วยกัน โดยจะต้องทำการ Update Visual Studio และ Visual Code ให้รองรับในช่วงครึ่งแรกของปี
 {% endhint %}
 
-![.NET\_Core-04.png](../../.gitbook/assets/net\_core-04.png)
+![](../../.gitbook/assets/net\_core-04.png)
 
 **อ่านเพิ่มเติม** : [https://bit.ly/2EACeVZ](https://bit.ly/2EACeVZ)

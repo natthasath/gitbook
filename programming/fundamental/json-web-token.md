@@ -12,7 +12,7 @@
 
 ## **Session**
 
-![JWT-01.png](../../.gitbook/assets/jwt-01.png)
+![](../../.gitbook/assets/jwt-01.png)
 
 {% hint style="success" %}
 หลังจากที่เราทำการ Authentication ครั้งแรก จะมีการสร้าง Session ของแต่ละ User ขึ้นมา เพื่อให้ผู้ใช้งานไม่ต้องทำการ Authentication อีก โดย Session จะเก็บอยู่บน Memory ของ Server ส่วน Cookie  จะเก็บอยู่บน Browser ของ Client จนกว่าผู้ใช้งานจะทำการ Logout จึงจะทำลาย Session นั้นทิ้งไป หรือจนกว่า Session Expire ตามระยะเวลาที่ได้กำหนด
@@ -20,11 +20,11 @@
 
 ## **Token**
 
-![JWT-02](../../.gitbook/assets/jwt-02.png)
+![](../../.gitbook/assets/jwt-02.png)
 
 ## **JSON Web Token**
 
-![JWT-03](../../.gitbook/assets/jwt-03.png)
+![](../../.gitbook/assets/jwt-03.png)
 
 {% hint style="success" %}
 JWT เป็นมาตรฐานในการส่งข้อมูลระหว่าง Parties ต่าง ๆ โดยจะมีขนาดกะทัดรัด Compact และก็บข้อมูลในตัว Self-Contained ซึ่งจะใช้ HMAC Algotithm ในการเข้ารหัส หรือจะใช้ Key Pair อย่าง RSA หรือ ECDSA ที่เป็น Public Key / Private Key ก็ได้ โดยจะประกอบไปด้วย 3 ส่วน คือ
@@ -88,7 +88,7 @@ xxxxx.yyyyy.zzzzz
 
 ## **JWT Debugger**
 
-![JWT-04.png](../../.gitbook/assets/jwt-04.png)
+![](../../.gitbook/assets/jwt-04.png)
 
 ## **Comparison**
 
