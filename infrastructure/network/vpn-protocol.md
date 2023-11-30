@@ -4,7 +4,7 @@
 VPN ( Virtual Private Network ) เป็นเครือข่ายส่วนตัวเสมือน โดยจะสร้าง Tunnel เป็นท่อในการส่งข้อมูล ซึ่งข้อมูลที่วิ่งผ่านจะถูกเข้ารหัส หากมีผู้ดักจับ Packet ไปก็ไม่สามารถอ่านได้ ส่วนใหญ่จะใช้ในการเชื่อมต่อระหว่าง Branch กับ Head Office และ Home กับ Office ในการใช้งานความปลอดภัยจะขึ้นอยู่กับ Protocol ที่เลือกใช้ด้วย
 {% endhint %}
 
-![VPN-01.jpg](../../.gitbook/assets/vpn-01.jpg)
+![](../../.gitbook/assets/vpn-01.jpg)
 
 ## **OpenVPN**
 

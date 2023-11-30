@@ -15,30 +15,30 @@
 
 * คลิก Install
 
-![Upgrade-02](../../.gitbook/assets/upgrade-01.png)
+![](../../.gitbook/assets/upgrade-01.png)
 
 * ทำการ Uncheck Help ออก แล้วคลิก Go online to get the latest updates for installation
 
-![Upgrade-03](../../.gitbook/assets/upgrade-02.png)
+![](../../.gitbook/assets/upgrade-02.png)
 
 * ทำการ Uncheck Automatically activate Windows ออก แล้วคลิก Next
 
-![Upgrade-04](../../.gitbook/assets/upgrade-03.png)
+![](../../.gitbook/assets/upgrade-03.png)
 
 * คลิก No
 
-![Upgrade-05](../../.gitbook/assets/upgrade-04.png)
+![](../../.gitbook/assets/upgrade-04.png)
 
 * เลือก Windows Server 2008 Standard (Full Installation) แล้วคลิก Next คำเตือนเลือกให้ตรงกับ Windows Version เดิม ถ้าเป็น Enterprise เลือก Enterprise
 
-![Upgrade-06](../../.gitbook/assets/upgrade-05.png)
+![](../../.gitbook/assets/upgrade-05.png)
 
 * ทำการ Check I accept the license terms แล้วคลิก Next
 
-![Upgrade-07](../../.gitbook/assets/upgrade-06.png)
+![](../../.gitbook/assets/upgrade-06.png)
 
 * กรณีที่ไม่สามารถคลิก Upgrade ได้ อาจเกิดจาก Open Remote Desktop ให้ทำการ Close Connection แล้วไปทำหน้า Console แทน
 
-![Upgrade-08](../../.gitbook/assets/upgrade-07.png)
+![](../../.gitbook/assets/upgrade-07.png)
 
 **อ่านเพิ่มเติม** : [https://bit.ly/3g6ncYx](https://bit.ly/3g6ncYx)

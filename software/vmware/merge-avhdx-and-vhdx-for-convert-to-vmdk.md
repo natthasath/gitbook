@@ -8,30 +8,30 @@
 
 * เปิดโปรแกรม Hyper-V Manager เลือก Action แล้วคลิก Edit Disk
 
-![Merge-01.png](../../.gitbook/assets/merge-01.png)
+![](../../.gitbook/assets/merge-01.png)
 
 * คลิก Next
 
-![Merge-02.png](../../.gitbook/assets/merge-02.png)
+![](../../.gitbook/assets/merge-02.png)
 
 * เลือก AVHDX ไฟล์ที่ต้องการ Merge แล้วคลิก Next
 
-![Merge-03.png](../../.gitbook/assets/merge-03.png)
+![](../../.gitbook/assets/merge-03.png)
 
 * เลือก Merge แล้วคลิก Next
 
-![Merge-04.png](../../.gitbook/assets/merge-04.png)
+![](../../.gitbook/assets/merge-04.png)
 
 * เลือก To the parent virtual hard disk แล้วคลิก Next
 
-![Merge-05.png](../../.gitbook/assets/merge-05.png)
+![](../../.gitbook/assets/merge-05.png)
 
 * คลิก Finish
 
-![Merge-06.png](https://codeinsane.files.wordpress.com/2019/07/merge-06.png?w=1100)
+![](https://codeinsane.files.wordpress.com/2019/07/merge-06.png?w=1100)
 
 * จะเห็น File ที่ถูก Merge เรียบร้อยแล้ว ซึ่งเราสามารถนำไป Convert เป็น VMDK ต่อได้
 
-![Merge-07.png](../../.gitbook/assets/merge-06.png)
+![](../../.gitbook/assets/merge-06.png)
 
 **อ่านเพิ่มเติม** : [https://bit.ly/2GE2FMb](https://bit.ly/2GE2FMb)

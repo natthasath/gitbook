@@ -12,7 +12,7 @@ Operating System Instrumentation Framework ( OSQuery ) เป็น Open Source 
 
 * ทำการดาวน์โหลดและติดตั้ง OSQuery
 
-![OSQuery-01.png](../../.gitbook/assets/osquery-01.png)
+![](../../.gitbook/assets/osquery-01.png)
 
 * ทำการรัน OSQuery
 

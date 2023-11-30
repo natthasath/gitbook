@@ -35,14 +35,14 @@ MERCEDES      Security Update  KB4512501     NT AUTHORITY\SYSTEM  8/14/2019 12:0
 
 * ทำการเปิด Windows Update Setting แล้วคลิก View update history
 
-![CVE-01.png](../../.gitbook/assets/cve-01.png)
+![](../../.gitbook/assets/cve-01.png)
 
 * จะแสดง Update History ที่ได้ทำการ Installed ซึ่งเราสามารถคลิกเพื่อดูรายละเอียดของ KB ที่อยู่บนเว็บไซต์ [https://support.microsoft.com/en-us](https://support.microsoft.com/en-us)
 
-![CVE-02.png](../../.gitbook/assets/cve-02.png)
+![](../../.gitbook/assets/cve-02.png)
 
 * เข้าไปที่เว็บไซต์ [https://portal.msrc.microsoft.com/en-US/security-guidance](https://portal.msrc.microsoft.com/en-US/security-guidance) แล้วทำการค้นหาจากหมายเลข KB
 
-![CVE-03.png](../../.gitbook/assets/cve-03.png)
+![](../../.gitbook/assets/cve-03.png)
 
 **อ่านเพิ่มเติม** : [https://portal.msrc.microsoft.com/en-US/](https://portal.msrc.microsoft.com/en-US/)

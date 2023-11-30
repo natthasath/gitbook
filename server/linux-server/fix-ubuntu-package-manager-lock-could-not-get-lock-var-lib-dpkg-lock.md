@@ -19,32 +19,44 @@ E: Unable to lock directory /var/cache/apt/archives/
 
 * ทำการ Kill Process
 
+{% code title="#" %}
 ```
 killall apt-get
 ```
+{% endcode %}
 
 * ทำการ Remove Folder Lock
 
+{% code title="#" %}
 ```
 rm /var/lib/dpkg/lock
 ```
+{% endcode %}
 
+{% code title="#" %}
 ```
 rm /var/lib/dpkg/lock-frontend
 ```
+{% endcode %}
 
+{% code title="#" %}
 ```
 rm /var/lib/apt/lists/lock
 ```
+{% endcode %}
 
+{% code title="#" %}
 ```
 rm /var/cache/apt/archives/lock
 ```
+{% endcode %}
 
 * ทำการ Configure ใหม่อีกครั้ง
 
+{% code title="#" %}
 ```
 dpkg --configure -a
 ```
+{% endcode %}
 
 **อ่านเพิ่มเติม** : [https://bit.ly/3N4W66w](https://bit.ly/3N4W66w)

@@ -14,10 +14,10 @@
 
 * เปิด Firefox -> Options -> General -> Network Setting แล้วคลิก Settings
 
-![DoH-01.png](../../.gitbook/assets/doh-01.png)
+![](../../.gitbook/assets/doh-01.png)
 
 * เลือก Enable DNS over HTTPS แล้วคลิก OK
 
-![DoH-02.png](../../.gitbook/assets/doh-02.png)
+![](../../.gitbook/assets/doh-02.png)
 
 **อ่านเพิ่มเติม** : [https://mzl.la/2H7Hf7j](https://mzl.la/2H7Hf7j)

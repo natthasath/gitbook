@@ -32,30 +32,30 @@
 
 * ทำการดาวน์โหลดและติดตั้ง FTK Imager
 
-![Forensic-01](../../.gitbook/assets/forensic-01.png)
+![](../../.gitbook/assets/forensic-01.png)
 
 * ทำการเปิดโปรแกรม FTK Imager แล้วคลิก File -> Capture Memory
 
-![Forensic-02](../../.gitbook/assets/forensic-02.png)
+![](../../.gitbook/assets/forensic-02.png)
 
 * เลือก Destination Path แล้วคลิก Capture Memory
 
-![Forensic-03](../../.gitbook/assets/forensic-03.png)
+![](../../.gitbook/assets/forensic-03.png)
 
 * คลิก Close
 
-![Forensic-04](../../.gitbook/assets/forensic-04.png)
+![](../../.gitbook/assets/forensic-04.png)
 
 * คลิก File -> Add Evidence Item -> Image File แล้วคลิก Next
 
-![Forensic-05](../../.gitbook/assets/forensic-05.png)
+![](../../.gitbook/assets/forensic-05.png)
 
 * เลือก Source Path แล้วคลิก Finish
 
-![Forensic-06](../../.gitbook/assets/forensic-06.png)
+![](../../.gitbook/assets/forensic-06.png)
 
 * จะแสดงค่า Hash ของไฟล์
 
-![Forensic-07](../../.gitbook/assets/forensic-07.png)
+![](../../.gitbook/assets/forensic-07.png)
 
 **อ่านเพิ่มเติม** : [https://bit.ly/2RVDCc0](https://bit.ly/2RVDCc0)

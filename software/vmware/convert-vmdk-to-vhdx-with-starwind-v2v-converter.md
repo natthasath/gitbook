@@ -12,27 +12,27 @@
 
 * เลือก Accept แล้วคลิก Next
 
-![Convert-01](../../.gitbook/assets/convert-01.png)
+![](../../.gitbook/assets/convert-01.png)
 
 * คลิก Next
 
-![Convert-02.png](../../.gitbook/assets/convert-02.png)
+![](../../.gitbook/assets/convert-02.png)
 
 * คลิก Next
 
-![Convert-03.png](../../.gitbook/assets/convert-03.png)
+![](../../.gitbook/assets/convert-03.png)
 
 * คลิก Next
 
-![Convert-04.png](../../.gitbook/assets/convert-04.png)
+![](../../.gitbook/assets/convert-04.png)
 
 * คลิก Install
 
-![Convert-05.png](../../.gitbook/assets/convert-05.png)
+![](../../.gitbook/assets/convert-05.png)
 
 * คลิก Finish
 
-![Convert-06.png](../../.gitbook/assets/convert-06.png)
+![](../../.gitbook/assets/convert-06.png)
 
 * เปิดโปรแกรม StarWind V2V Converter เลือก Local file แล้วคลิก Next
 

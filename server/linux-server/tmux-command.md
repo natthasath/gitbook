@@ -4,7 +4,7 @@
 หลายคนคงเคยใช้งาน Terminal เพื่อพิมพ์คำสั่ง Command ต่าง ๆ หรืออาจจะเข้าผ่าน SSH เช่น Putty, SecureCRT ซึ่งหากใครต้อง SSH ไปหลาย ๆ เครื่องแล้วพิมพ์คำสั่งเหมือนกันขอแนะนำ Terminal Multiplexer ( TMUX ) ทำให้เราไม่ต้องเสียเวลา SSH ไปพิมพ์ทีละเครื่อง สำหรับคนที่ใช้ Windows 10 สามารถทำการติดตั้งบน Windows Subsystem for Linux ( WSL ) ได้เลย
 {% endhint %}
 
-![GifMaker\_20190728123617893.gif](https://codeinsane.files.wordpress.com/2019/07/gifmaker\_20190728123617893.gif?w=1100)
+![](https://codeinsane.files.wordpress.com/2019/07/gifmaker\_20190728123617893.gif?w=1100)
 
 ## **Basic TMUX**
 

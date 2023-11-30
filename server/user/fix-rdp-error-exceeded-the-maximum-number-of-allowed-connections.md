@@ -4,7 +4,7 @@
 ในกรณีที่เราทำการ Remote Connection ผ่าน RDP ไปยัง Windows Server 2003 หรือ Windows XP รุ่นเก่า ๆ จะไม่สามารถทำการ Login ด้วย User ที่มีสถานะ Session เป็น Console เพียงอย่างเดียว แต่ไม่มีสถานะ Session เป็น RDP ทำให้จะไม่สามารถทำการ Remote Connection ได้
 {% endhint %}
 
-![Fix-01.PNG](<../../.gitbook/assets/fix-01 (1).png>)
+![](<../../.gitbook/assets/fix-01 (1).png>)
 
 {% hint style="danger" %}
 **Cause** :สาเหตุเนื่องมาจาก User บน Windows มีสิทธิ์ Console เพียงอย่างเดียว แต่ไม่มีสิทธิ์ RDP ในการ Remote Connection ทำให้ไม่สามารถ Login ด้วย User นั้นผ่านทาง RDP ได้

@@ -12,11 +12,11 @@
 
 * ทำการดาวน์โหลดและติดตั้ง GZIP, BZIP and TAR โดยเลือกดาวน์โหลดไฟล์ที่เป็น .exe ซึ่งจะถูก Compile เรียบร้อยแล้ว
 
-![Decompress-01.png](../../.gitbook/assets/decompress-01.png)
+![](../../.gitbook/assets/decompress-01.png)
 
 * ทำการย้ายไฟล์ .exe ที่ดาวน์โหลด มาไว้ในโฟลเดอร์ C:\Windows\System32
 
-![Decompress-02.png](../../.gitbook/assets/decompress-02.png)
+![](../../.gitbook/assets/decompress-02.png)
 
 * ลองทำการ Decompress ไฟล์
 
