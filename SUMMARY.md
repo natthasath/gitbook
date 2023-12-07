@@ -89,6 +89,7 @@
   * [👿 Change IP and Hostname on Ubuntu 18.04](server/linux-server/change-ip-and-hostname-on-ubuntu-18.04.md)
   * [👿 iSCSI Initiator on CentOS 7](server/linux-server/iscsi-initiator-on-centos-7.md)
   * [👿 TMUX Command](server/linux-server/tmux-command.md)
+  * [👿 How to Create User on Linux](server/linux-server/how-to-create-user-on-linux.md)
 * [User](server/user/README.md)
   * [👽 OSQuery](server/windows-server/osquery.md)
   * [👽 How to decompress GZIP, BZIP and TAR File on Windows 10](server/user/how-to-decompress-gzip-bzip-and-tar-file-on-windows-10.md)
