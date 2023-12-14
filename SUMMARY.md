@@ -153,6 +153,7 @@
     * [🚎 Productive Tools](programming/tools/other-tools/productive-tools.md)
     * [🏎 Programming Tools](programming/tools/other-tools/programming-tools.md)
     * [🚓 SEO Tools](programming/tools/other-tools/seo-tools.md)
+    * [🚑 Mac Tools](programming/tools/other-tools/mac-tools.md)
   * [Package Tools](programming/tools/package-tools/README.md)
     * [🧶 Top NuGet Package .NET Core](programming/tools/package-tools/top-nuget-package-.net-core.md)
   * [Visual Studio Code](programming/tools/visual-studio-code/README.md)
