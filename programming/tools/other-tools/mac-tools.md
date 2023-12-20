@@ -35,3 +35,19 @@
 ## Rectangle
 
 {% embed url="https://rectangleapp.com/" %}
+
+## Amphetamine
+
+{% embed url="https://apps.apple.com/th/app/amphetamine/id937984704?mt=12" %}
+
+## Hidden Bar
+
+{% embed url="https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12" %}
+
+## One Thing
+
+{% embed url="https://apps.apple.com/us/app/one-thing/id1604176982?mt=12" %}
+
+## Pandan
+
+{% embed url="https://apps.apple.com/us/app/pandan/id1569600264?mt=12" %}
