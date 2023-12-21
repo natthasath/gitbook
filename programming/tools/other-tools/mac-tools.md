@@ -51,3 +51,7 @@
 ## Pandan
 
 {% embed url="https://apps.apple.com/us/app/pandan/id1569600264?mt=12" %}
+
+## CleanShot X
+
+{% embed url="https://cleanshot.com/" %}
