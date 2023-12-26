@@ -90,4 +90,4 @@ public static async Task Run(HttpRequestMessage req, string graphToken, ILogger 
 
 <figure><img src="../../.gitbook/assets/serverless-28.png" alt=""><figcaption></figcaption></figure>
 
-อ่านเพิ่มเติม : [https://bit.ly/2FSLgi6](https://bit.ly/2FSLgi6)
+**อ่านเพิ่มเติม** : [https://bit.ly/2FSLgi6](https://bit.ly/2FSLgi6)
