@@ -239,6 +239,8 @@
   * [👔 How to enable Guest Access on Microsoft Team](microsoft-365/microsoft-teams/how-to-enable-guest-access-on-microsoft-team.md)
 * [Admin](microsoft-365/admin/README.md)
   * [😱 Redo Provisioning Microsoft Office 365](microsoft-365/admin/redo-provisioning-microsoft-office-365.md)
+* [Function App](microsoft-365/function-app/README.md)
+  * [🧩 Integrate Microsoft Graph API with Function App on Azure](microsoft-365/function-app/integrate-microsoft-graph-api-with-function-app-on-azure.md)
 
 ## 🧛♂ Web Server
 
