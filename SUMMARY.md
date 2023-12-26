@@ -136,6 +136,7 @@
   * [🟠 C Pyramid – Part I](programming/fundamental/c-pyramid-part-i.md)
   * [🟤 C Pyramid – Part II](programming/fundamental/c-pyramid-part-ii.md)
   * [⚪ JSON Web Token](programming/fundamental/json-web-token.md)
+  * [🟦 Memory Architecture](programming/fundamental/memory-architecture.md)
 * [Tools](programming/tools/README.md)
   * [AI Tools](programming/tools/ai-tools/README.md)
     * [❤ Generative AI Tools](programming/tools/ai-tools/generative-ai-tools.md)
