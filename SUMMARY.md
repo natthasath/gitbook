@@ -141,6 +141,7 @@
     * [❤ Generative AI Tools](programming/tools/ai-tools/generative-ai-tools.md)
     * [💙 Prompt Tools](programming/tools/ai-tools/prompt-tools.md)
     * [💚 Dataset Tools](programming/tools/ai-tools/dataset-tools.md)
+    * [🤎 Artwork Tools](programming/tools/ai-tools/artwork-tools.md)
   * [Extension Tools](programming/tools/extension-tools/README.md)
     * [❄ Top Extension Microsoft Edge](programming/tools/extension-tools/top-extension-microsoft-edge.md)
     * [❄ Top Extension Visual Studio Code](programming/tools/extension-tools/top-extension-visual-studio-code.md)
