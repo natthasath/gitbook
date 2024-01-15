@@ -39,3 +39,11 @@
 ## Clipdrop
 
 {% embed url="https://clipdrop.co/" %}
+
+## subiRegex
+
+{% embed url="https://www.subiregex.com/" %}
+
+## SVG.io
+
+{% embed url="https://svg.io/" %}

@@ -11,3 +11,7 @@
 {% embed url="https://soco-st.com/" %}
 
 {% embed url="https://kahoot.it/" %}
+
+{% embed url="https://www.photoroom.com/" %}
+
+{% embed url="https://www.remove.bg/" %}
