@@ -20,6 +20,10 @@
 
 {% embed url="https://typeset.io/" %}
 
+## ChatPDF
+
+{% embed url="https://www.chatpdf.com/" %}
+
 ## FinChat.io
 
 {% embed url="https://finchat.io/chats/" %}
